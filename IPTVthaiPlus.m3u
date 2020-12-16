@@ -81,13 +81,15 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
 https://dootvgun.com/hbotv/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
 https://dootvgun.com/hbotv/hbofam/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
@@ -668,9 +670,10 @@ https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w56
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="Variety"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 group-title="Variety"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062000.jpg",PULSE
-https://cdn6.goprimetime.info/feed/LC6/index.m3u8
+
+#EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
+
 #EXTINF:-1 group-title="Variety" tvg-logo="http://thaich2.com/images/logoch2-nm.png"",Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://i.imgur.com/dauuWLp.png",Smart SME Channel
