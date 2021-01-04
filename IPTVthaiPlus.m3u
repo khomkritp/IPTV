@@ -1,8 +1,8 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg",PSI SARADEE(สาระดี)
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discovery.png",Discovery Channel
 https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg",Discovery Asia
@@ -11,6 +11,7 @@ https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg",BBC earth
 https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet
 https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 
@@ -35,6 +36,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
 http://a787201483-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 5
@@ -56,14 +58,14 @@ https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 
+
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png",MOVIES NOW
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
-
+#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+https://dootvgun.com/hbotv/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbo.jpg",HBO HD
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO HD
-https://dootvgun.com/hbotv/hbohd/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
@@ -99,12 +101,12 @@ http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",Fox ไทย
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",Fox Movies Premium
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",Fox Movies Premium
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN (true visions)
@@ -260,723 +262,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-011131.jpg",Australia News
 http://203.154.177.124:8899/live/ch8/playlist.m3u8
-
-
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064652.jpg",Tenet เทเน็ท (2020)
-https://lb1.one3up.com/hls/e5cc8d83734c0266ebee16b949bbe3ea/e5cc8d83734c0266ebee16b949bbe3ea.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064225.jpg",Attraction 2 Invasion (2020) มหาวิบัติเอเลี่ยนถล่มโลก 2
-https://lb1.one3up.com/hls/42d5e16572b86619ec9789889e2f558d/42d5e16572b86619ec9789889e2f558d.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
-https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/The-Kill-List.jpg",The Kill List (2020) ล่า ล้าง บัญชี
-https://cdn.jebriko.ru/vod/disk3/movies/theklst.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
-https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.ytimg.com/vi/xw1vQgVaYNQ/hqdefault.jpg",E.Project Power[2020]
-https://streamhee.com/2020_new/Project.Power.2020/Project.Power.2020.1080P.mp4.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.sae-lao.com/wp-content/uploads/2020/08/224e7f69c0e6384755896a784e8d34f5-210x300.jpg",T.พี่นาค 2[2020]
-https://lb1.one3up.com/hls/a4810e41ac7488be4877b03c42a886e5/a4810e41ac7488be4877b03c42a886e5.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062035.jpg",(Zoom)E.บีบแตรครั้งเดียว ชีวิตเปลี่ยน ตลอดกาล
-https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b20c47437e761.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062023.jpg",K.Secret Zoo เฟค Zoo สู้โว้ย!
-https://lb1.one3up.com/hls/c5a1de5cafb5365a93d05841198be6a0/c5a1de5cafb5365a93d05841198be6a0.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062002.jpg",E.Black Water Abyss "มัน" จะขย้ำไม่รู้ตัว
-https://lb1.one3up.com/hls/6f5b2932927fdcb8642f6652b90ac1c3/6f5b2932927fdcb8642f6652b90ac1c3.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://movie285.com/wp-content/uploads/2020/08/p618.jpg",latte the magic waterstone
-https://freeball96.com/D/M08364.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-06-034258.jpg",ชินจัง the Movie
-https://freeball96.com/D/M08358.mp4
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-07-030234.jpg",SPY INTERVENTION
-https://cdn.doraino.to/vod/disk4/vyport.mp4
-#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-07-030249.jpg",ซุมิกโกะ
-https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/Asia/Sumikko_Gurashi_the_Movie_2019/Sumikko_Gurashi_the_Movie2019_th.mp4/index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://f.ptcdn.info/771/067/000/q4bgfco7v3APBMPq0eb-o.jpg",มือปื่นโลกพระจัน 2
-https://cdn.doraino.to/vod/disk4/sodma2.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//3ca4189ab96712e4c1af2aed87d62d74.jpg",The Maid (2020) สาวลับใช้
-https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Thai//The-Maid-2020//The-Maid-2020-T.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//a1124fd7ca765a854db7985743ec1b9a.jpg",The Old Guard (2020) ดิ โอลด์ การ์ด
-https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Inter//The-Old-Guard//The-Old-Guard-T.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/keXCxynRjtcedhRtFOYVjDArUQFoJKMqOxJBnZOe.jpg",Classic Again (2020) จดหมาย สายฝน ร่มวิเศษ
-http://movie.chang55.com/newmovie4/1Cwq0P05KP5Dg1A88jLOU1VK7xReGSPp-.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//e49da277562a8ae3273d72eeb1860a67.jpg",สุขสันต์วันโสด
-https://freeball96.com/D/M08179.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.movie123hd.com/wp-content/uploads/2020/06/Still.Missing-1-scaled.jpg",Still Missing (2020) พราก
-http://movie.chang55.com/newmovie4/1BdZtlWkiel9IQvhAu3shbnT-I5PqweFT.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Train-to-Busan-2016-ด่วนนรกซอมบี้คลั่ง_cover.jpg",ด่วนนรกซอมบี้คลั่ง Train to Busan
-https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Inter//Train_to_Busan_2016//Train_to_Busan_2016_th.mp4//index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/07/Look-Out-Officer-1990.jpg",Look Out Officer คนเล็กทะลุโลก
-https://lb1.one3up.com/hls/36cbacd6efd127bf2ef2d47854b07bc5/36cbacd6efd127bf2ef2d47854b07bc5.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/JLuMollIt51WY1Y7dRyjVuv2BiSpPnVeXvwr0q1c.jpg",365 DNI(2020) (20+) ซับไทย
-http://movie.chang55.com/newmovie4/1CnL3feYJDOFak9j5EkoPiolPtK623j8h.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/JLuMollIt51WY1Y7dRyjVuv2BiSpPnVeXvwr0q1c.jpg",365 DNI(2020) (20+) ซับไทย
-https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/365_Days/365_Days_ST_2020.mp4/index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//e49da277562a8ae3273d72eeb1860a67.jpg",Low Season (2020) สุขสันต์วันโสด
-https://freeball96.com/D/M08179.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.pinimg.com/474x/d5/aa/28/d5aa285d771a0d9fb410ec69cc328f30.jpg",ขุนแผน ฟ้าฟื้น
-https://cdn.movietok.is/vod/disk4/khunpe.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.ytimg.com/vi/D93WVojfowk/hqdefault.jpg",โจรปล้นโจร
-https://cdn.movietok.is/vod/disk4/ytujgu.mp4
-#EXTINF:-1 group-title="MOVIE VOD",ไทบ้าน BNK48 จากใจผู้สาวคนนี้ (2020)
-http://ktu.ktuiptvapp.com/9999/bnk482.mkv
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats (2019) แคทส์
-https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
-https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/The-Rhythm-Section.jpg",The Rhythm Section โครตสาวมือมือพระกาฬ (2020) 
-https://cdn.jebriko.ru/vod/disk3/movies/mnseqi.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats แคทส์ (2019)
-https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/22-Chaser-249x323.jpg",22 Chaser 22 นักล่า (2018) 
-https://cdn.jebriko.ru/vod/disk3/movies/2ch22i.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
-https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Spider-in-the-Web.jpg",Spider in the Web (2019) สไปเดอร์ อิน เดอะเว็บ
-https://cdn.jebriko.ru/vod/disk3/movies/spdhw.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Gi%C3%A1ng-Sinh-%C4%90en.jpg",Black Christmas (2019) คริสต์มาสเชือดสยอง
-https://cdn.jebriko.ru/vod/disk3/movies/bakchs.mp4
-
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Avatar (2009)
-https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Independence Day-วันสิ้นโลก2012
-http://cdn-vod.kodi-live.com/hls/content/storage2/movie1/Vol3/2015/2012.(2009).mp4/index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 1(2007)
-https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 2 Revenge Of The Fallen(2009)
-https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 3 Dark Of The Moon(2011)
-https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 4 Age Of Extinction(2014)
-https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD",Thor 1(2011)-เทพเจ้าสายฟ้า
-https://glus-st.mthcdn.com/stream/video02/2018/02/06/1517891210/1517891210_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD",Thor 2(2013)-เทพเจ้าสายฟ้า
-https://glus-st.mthcdn.com/stream/video02/2018/02/05/1517818285/1517818285_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD",Captain America 1
-https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516797460/1516797460_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD",Captain America 2
-https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516797522/1516797522_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD",Captain America 3
-https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515936618/1515936618_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD",จันดารา ปฐมบท 1
-https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069926/1518069926_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD",จันดารา ปฐมบท 2
-https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069863/1518069863_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ผ่ายุทธการถล่มลอนดอน
-https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516172808/1516172808_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",พลาทูน PLATOON (1986) 
-https://glus-st.mthcdn.com/stream/video02/2018/02/20/1519131402/1519131402_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",วันยึดโลก
-https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513656764/1513656764_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",หน่วยพิฆาต ระห่ำกู้โลก Act of Valor (2012) 
-https://glus-st.mthcdn.com/stream/video02/2018/01/22/1516604236/1516604236_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Black-Hawk-Down-2001
-https://glus-st.mthcdn.com/stream/video02/2017/12/09/1512826087/1512826087_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เมืองห่าผี
-https://glus-st.mthcdn.com/stream/video02/2018/05/25/1527238790/1527238790_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ไฟนรกถล่มปอมเปอี
-https://glus-st.mthcdn.com/stream/video02/2018/06/20/1529477470/1529477470_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ศึกดวงดาวพิฆาตสะท้านจักรวาล
-https://glus-st.mthcdn.com/stream/video02/2018/02/02/1517581484/1517581484_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",พีทกับมังกรมหัศจรรย์
-https://glus-st.mthcdn.com/stream/video02/2018/01/09/1515495969/1515495969_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",แฟนแทสติก โฟร์ 1 Fantastic Four (2015)
-https://glus-st.mthcdn.com/stream/video02/2018/01/23/1516714567/1516714567_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เอ้า จิงปะปู่
-https://glus-st.mthcdn.com/stream/video02/2018/01/07/1515326254/1515326254_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อเมริกัน-เมด
-https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513481673/1513481673_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เพชฌฆาตแม่มด
-https://glus-st.mthcdn.com/stream/video02/2018/01/22/1516620581/1516620581_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ท็อปกัน ฟ้าเหนือฟ้า
-https://glus-st.mthcdn.com/stream/videoadmin/2018/03/26/1522044780/1522044780_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เกมปล้นนรก
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/en0014008-1080p.mp4/index.m3u8
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",CHIPS
-https://glus-st.mthcdn.com/stream/video02/2017/12/04/1512364851/1512364851_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อวตาร   Avatar (2009)
-https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",จี้ เบบี้ ปล้น   Baby Driver (2017)
-https://glus-st.mthcdn.com/stream/video02/2018/02/14/1518615758/1518615758_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อีเกิ้ล อาย แผนสังหารพลิกนรก  Eagle Eye (2008)
-https://glus-st.mthcdn.com/stream/video02/2018/01/31/1517373169/1517373169_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ดาวินชี่
-https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516168240/1516168240_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",นักฆ่าโคตรอึด  Death Wish (2018)
-https://glus-st.mthcdn.com/stream/video02/2018/06/15/1529042253/1529042253_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",โคตรนรกปล้นเหนือเมฆ
-https://glus-st.mthcdn.com/stream/video02/2018/05/28/1527471530/1527471530_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",โกงกระฉ่อนโลก
-https://glus-st.mthcdn.com/stream/video02/2017/12/05/1512442122/1512442122_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เบลด รันเนอร์
-https://glus-st.mthcdn.com/stream/video02/2017/12/29/1514556935/1514556935_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เอรากอน
-https://glus-st.mthcdn.com/stream/video02/2018/05/20/1526753206/1526753206_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มหาวิบัติสงคราม Z
-https://glus-st.mthcdn.com/stream/video02/2017/12/10/1512923619/1512923619_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ถอดรหัสลับ อัจฉริยะพลิกโลก
-https://glus-st.mthcdn.com/stream/video02/2017/12/25/1514176598/1514176598_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อัจฉริยะคนบัญชีเพชฌฆาต
-https://glus-st.mthcdn.com/stream/video02/2018/01/07/1515323787/1515323787_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Insidious 4 วิญญานตามติด-4
-https://glus-st.mthcdn.com/stream/video02/2018/04/07/1523083414/1523083414_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Chef 2014
-https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069753/1518069753_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ฝ่าวิบัติเพลิงนรก
-https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515396633/1515396633_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",จักรกลเปลี่ยนโลก
-https://glus-st.mthcdn.com/stream/video02/2018/02/01/1517457284/1517457284_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",คืนอัศจรรย์ขนหัวลุก
-https://glus-st.mthcdn.com/stream/video02/2018/01/28/1517152677/1517152677_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ปาฏิหาริย์แดนประหาร
-https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516124038/1516124038_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เจ้าพ่ออัลคาโปน The Untouchables 1987
-https://glus-st.mthcdn.com/stream/video02/2018/03/28/1522214852/1522214852_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มหากาฬล้างมหากาฬ
-https://glus-st.mthcdn.com/stream/video02/2017/12/22/1513917242/1513917242_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ซัลลี่ ปาฏิหาริย์ที่แม่น้ำฮัดสัน
-https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515402206/1515402206_720.mp4
-
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",หงส์หามเต่า
-https://glus-st.mthcdn.com/stream/video02/2018/04/09/1523279007/1523279007_360.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เพราะอากาศเปลี่ยนแปลงบ่อย
-https://glus-st.mthcdn.com/stream/video02/2018/02/19/1519053924/1519053924_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",รักหมดแก้ว
-https://glus-st.mthcdn.com/stream/video02/2018/02/01/1517456437/1517456437_360.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",11 12 13 รักกันจะตาย
-https://glus-st.mthcdn.com/stream/video02/2018/01/12/1515737713/1515737713_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",สี่เส้า
-https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515401533/1515401533_480.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",แม่เบี้ย
-https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515400351/1515400351_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มนต์รักขุมคำ
-https://glus-st.mthcdn.com/stream/video02/2018/01/01/1514779517/1514779517_720.mp4
-#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ฮักนะ ‘สารคาม
-https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513441554/1513441554_480.mp4
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="หนังการ์ตูน",ทาซาน
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1TFUtSWJlYVJQTkU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ก้านกล้วย 1
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqYldVbENTLVlYN0k.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ก้านกล้วย 2
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqbDR2RGE4LWk3clU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เชร็ค 1
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqZmNXcFVpczZ5WXc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เชร็ค 2
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWUFMUkxWNVNQSFU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เชร็ค 3
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqdXRhYmIycUZhTWs.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เชร็ค 4
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqeGRQVnh2dWZUQTg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",จอมเพี้ยน ฝ่าโลกอนาคต
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqYzNiaFc2c2YwRDA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ฮอร์ตัน กับ โลกจิ๋วสุดมหัศจรรย์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqQWV4c3dlNExlbUU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โรบอทส์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqbnlBNzNGNV9KX0k.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แม่มดน้อยกิกิ
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaHdFOXREVl9Lbnc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ฮะอุรุ โนะ ยุโงะกุชิโระ
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqTzBMdDZyb0d4cVU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Barnyard
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWXhWV1FVcmJEY0k.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Evolution Man
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1OVFmcml6cXd1MzQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Mune Guardian
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaFBDYmpFME11LTg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ปริศนาราชินีหิมะ 1
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1YWJRcGhMVWxPUG8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โพคาฮอนทัส 1
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqa282MWhkZmhMNWc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โพคาฮอนทัส 2
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqc0xQWU91cGMwSDA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Tale of Despereaux
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqOTlRT3hJbS02dEk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Starship
-http://guru.smoothboxtv.com/newmovie2/0B9Z1rGHdhWO1Ukt5ZnJjelA4VTA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Gundam
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRRWRzcVhPTWNoS0k.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Rider
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRczU3ZVcyMExlMG8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มาคไรเดอร์
-http://guru.smoothboxtv.com/newmovie2/0B9Z1rGHdhWO1c0U4a1hqVnpSZ1E.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",นารูโตะ
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1bU1HV2NfVUNSbW8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เอปิค บุกอาณาจักรคนต้นไม้
-http://guru2.smoothboxtv.com/newmovie3/0B5WfQfBoQ9q1QnJVV1pxWEg4WUk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Bambi 1
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1cktxU09BcHhCS28.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Bambi 2
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1dHk0RS1QdGE1MzQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",หลุยส์และลูก้า
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1aFF5OHBnV2JrREE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทอย สตอรี่ ภาค 1
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqdW12enBveVEyZEU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทอย สตอรี่ ภาค 2
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqSmFEbFlzNHVxWE0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทอย สตอรี่ ภาค 3
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqYjFFZ3dTMU80U2c.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทอย สตอรี่ 4
-http://guru2.smoothboxtv.com/newmovie3/1HERtoocWcUkmdoKuFkHtBKDxXlVqP-rL.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทอยสตอรี่ ตอนพิเศษ คริสมาสต์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqbERmb0tfenlUdHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทีมพิทักษ์แดนทรนง ชีวิตในแดนทรนง
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1cFBVdnBPVGNsd2M.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ตำนานผีตระกูลแชกกี้
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1SmtkTlJaY0JRQ2s.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เซิร์ฟอัพ ไต่คลื่นยักษ์ซิ่งสะท้านโลก 2
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1RkR3NTZoejExYzQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ ผจญภัยในวีดีโอเกมส์
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1VGUtZUxkbG1QcHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โยไค
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1b2s3dmV3U0UyeUE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สเปซด็อก 2 น้องหมาตะลุยดวงจันทร์
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1Z1p1bHMyeFNlZms.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ร้องจริง เสียงจริง
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1Yi0tSFk2NFVwOGc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มูหล่าน
-http://guru2.smoothboxtv.com/newmovie3/0B5WfQfBoQ9q1NXBoR2JVRGY5Z28.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทีนไททั่นส์
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1akpZbk1CMU1wODQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ยูกิโอ ศึกปริศนาด้านมืด
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1ODJlc3pDSzZRekk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มหาลัย มอนส์เตอร์
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1clU4bnNISGgxdVU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สาวน้อยเขย่งฝัน
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1YWs3bnhDYWlSU2c.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Mortal
-http://guru2.smoothboxtv.com/newmovie3/0B5WfQfBoQ9q1eXE4Qk1kYTR0R0U.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เอคโค่ จิ๋วก้องโลก
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1bFNsNTRDRldVZkE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",คูโบ้และมหัศจรรย์พิณสองสาย
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1VXZXRG1MVnptVlk.mp43
-#EXTINF:-1 group-title="หนังการ์ตูน",พุซ อิน บู๊ทส์
-http://guru2.smoothboxtv.com/newmovie3/0B5WfQfBoQ9q1QnpuSXhnVXdvQWc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เจ้าหญิงจิตวิญญาณแห่งพงไพร
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWl9yQUlvaEpETVU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สลัดอากาศประจัญบาน
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMlFtV2tmNkhmMTA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โปเนียว ธิดาสมุทรผจญภัย
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqU29PSEVnVDI4TVk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ปอมโปโกะ ทานูกิป่วนโลก
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWDUtOUF3LU1vakE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ในความทรงจำที่ไม่มีวันจาง
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMWFEcks1QWZXWnc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้สายลับเจ้าเสน่ห์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaDFlZXJIRGkwdkU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แก๊งค์สี่ขา ข้ามป่ามาป่วนเมือง
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRjJyRXRwUUtrYkU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บุกโลกคนตัวเขียว
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqSU0wd1N3UmFac1U.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ชินจัง ดินแดนกระบองเพชร
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRVpZNGtQWF83M28.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แองกี้เบิร์ด-1
-http://guru2.smoothboxtv.com/newmovie3/0Byp822GLYTYqU2ZkdmtaNEhfQnM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แองกี้เบิร์ด-2
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0013753-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age (2002)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqdkpIMWdtRUNQTHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age: A Mammoth Christmas (2011)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqUnY2MG1WYlFoT1E.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age: The Meltdown (2006)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqUVd0bkJOWXB3SDA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age: Dawn of the Dinosaurs (2009)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWlpQQmh3MmdveTg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age: Continental Drift (2012)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqa1FrWFN0LWRyblk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ice Age Collision Course (2016)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1d3VHVzJfYUhRRFE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Little 1 Mermaid (1989)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1LVJaaGJtZFNvNlk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Little Mermaid 2 Return to the Sea (2000)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1MHgza1ZZRFBZQkk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Little Mermaid 3 Ariel's Beginning (2008)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1Mnc1VjZvSDFIVjQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Lilo & Stitch 2: Stitch Has a Glitch (2005)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqSXVncUpEVmEwSU0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Lilo & Stitch (2002) Lilo and Stitch
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqSFE2bFBWdVdnRW8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โลกความฝันของโฉมงาม
-http://guru2.smoothboxtv.com/newmovie3/12ebxR30AevvB9MfDUNu6Ze3FkB3dij-d.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Beauty and the Beast The Enchanted Christmas 1997
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1Wk8wSzZPTkY3Wmc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Beauty and the Beast Special Edition 1991
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1Sm56TW1jOWJjdms.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Goเดอะมูฟวี่
-http://guru.smoothboxtv.com/newmovie2/1tq7HqT9kfTW1WIDgnphe-mK7a6bJrPas.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Wonder Woman Commemorative (2009)
-http://guru2.smoothboxtv.com/newmovie3/1e2TWCew-3NoKlmS4_xS_kf8BtSmk0g5Y.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซัมเมอร์ วอร์ส
-http://guru.smoothboxtv.com/newmovie2/1GUPUYy6fyAwiHeGvfzasJ_cnIoGJgSj5.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซุปเปอร์เซนไต
-http://guru.smoothboxtv.com/newmovie2/1NcjV8aLFEYhe0icq6NDpuqdM6MTJuVze.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Z
-http://guru.smoothboxtv.com/newmovie2/1ju9bjrngSU95U6SrqrKqgVf8aJbrwOqZ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Super Hero Wars GP - 3
-http://guru.smoothboxtv.com/newmovie2/13ZcRkWZph7xAKtVsOpneayW4cyURIPpc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Mobile Suit Gundam Thunderbolt December Sky.2016
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRVGNsaksxSUE5am8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",BerserIII
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRakxMUTdpNG04dHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",BerserII
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRS2pHSHRYcC1CZlE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",BerserTamago
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRUnJJRF8tQzlsWXc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ลูแปงที่สาม ปะทะ ยอดนักสืบจิ๋วโคนัน เดอะ มูฟวี่
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRMS13R0xBSWRiM2c.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",คดีปริศนากับโคนันที่หายไป
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRNTFVdmpiXzRockE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",นครสัตว์มหาสนุก
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqYzh5NTBxRTlQVFU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แรงโก้ ฮีโร่ทะเลทราย พากย์อีสาน
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaGNzNC00VlF3N2c.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",2016
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaXVaTDY4SDVXTHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",2011
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqNEtVSkgtVU8xbjg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",2008
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqa3h3TzRQVTdoSXM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แฟนเทเชีย 2000
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqUHJ5dXdRM2l0dTA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Ya2012
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWXdJTWlsSE45bEE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Pirate Fairy Tin2014
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMDF4eWVUc1JweUU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Justice League: The Flashpoint Paradox (2013)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqOVd1ai1aZ1hXb3M.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Jungle Boo(2003)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqbE5WcUZzLWNTclU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Jungle Boo1
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqTUVDcjlfaThlTXc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Hunchbac2
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqX09Qa05iRGdfdUk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Hunchbacคนค่อมแห่งนอเทรอดาม
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRUJPZVl1OW9KSlE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ยามาดะ ครอบครัวนี้ไม่ธรรมดา
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqUmRyMGdSSnZXWDA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",พลิกตำนานเหนือเวหา
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqX0gxUlVqMHd2Vms.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Iblard ji(2007)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqQ3lNVklIczBBOVU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",วันนั้น...วันไหน หัวใจจะเป็นสีชมพู
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqLTJYUWswVXFUcjA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สองหัวใจ หนึ่งรักเดียว
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMHcyeHI4aFhNWmM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เจ้าแมวยอดนักสืบ
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqU1ptNndyMEQtZms.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ศึกเทพมังกรพิภพสมุทร
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqV0NuQWZiU0N2bVE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เจ้าหญิงจิตวิญญาณแห่งพงไพร
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWl9yQUlvaEpETVU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",พอร์โค รอสโซ สลัดอากาศประจัญบาน
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMlFtV2tmNkhmMTA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โปเนียว ธิดาสมุทรผจญภัย
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqU29PSEVnVDI4TVk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทานูกิป่วนโลก
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqWDUtOUF3LU1vakE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ในความทรงจำที่ไม่มีวันจาง
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqMWFEcks1QWZXWnc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้สายลับเจ้าเสน่ห์ 2016
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaDFlZXJIRGkwdkU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แก๊งค์สี่ขา ข้ามป่ามาป่วนเมือง
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRjJyRXRwUUtrYkU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ฮอร์ตัน กับ โลกจิ๋วสุดมหัศจรรย์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqQWV4c3dlNExlbUU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บุกโลกคนตัวเขียว
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqSU0wd1N3UmFac1U.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ผจญภัยครอบครัวจอมเพี้ยน ฝ่าโลกอนาคต
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqYzNiaFc2c2YwRDA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Cinderella 3: A Twist in Time (2007)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqa3hmdXN1X2Y3RnM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Cinderella II: Dreams Come True (2002)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqdlZlWXpSc0xJRms.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Cinderella 1950
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1RzdFYzhzZEVMRHM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซินเดอเรลล่ากับเจ้าชายปริศนา
-http://guru.smoothboxtv.com/newmovie2/19IigoPWYrCKDwjPN2upqqCKmIqo224GR.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Big Hero 6 2014
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqeVRHdzR5bU5lZWs.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เด็กแสบตะลุยอนาจักรมด
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqakRPV1hTc09BYVE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Girl Who Leapt Through Time (2006)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqTWg0YW1zZDVtZDQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Snow White and the Seven Dwarfs (1937)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqajZ5ZExaeDVkMjQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Shin-Chan My Moving Story! Cactus Large Attac2015
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRVpZNGtQWF83M28.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Emperor's New Groove (2000)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqOEF0OTF4SHR6dUU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Pinocchio (1940)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqcXk1UGVkOWFnQ2s.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เพื่อนลับในป่ามหัศจรรย์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaFRyWFN0bGJRdjQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Capture the Flag (2015)
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqT1d6a2RxbE9KdTQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มอนสเตอร์ ไฮ ปีศาจสาวพลังไฟฟ้า
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1NXZack5QQlpoLUE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Monster High Welcome to Monster High (2016)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1N2VncF9DdDM4dDQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Monster High Great Scarrier Reef (2016)
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1eXhSSkxWWVlrM2s.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",อลเวงปีศาจพันธุ์ใหม่
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqaUF0Z1pDWVUxWjg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มอนสเตอร์ไฮ- ศึกแก๊งคู่กัด
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqbnZLTWdTSzJXaTQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มอนสเตอร์ไฮ ซุปตาร์ราชินีแวมไพร์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqRWl0QTQ0aVdQMU0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มอนสเตอร์ไฮ แก๊งสาวโรงเรียนปีศาจ
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqel9WRXp4bTFMLTA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ดร.สเตรนจ์ ฮีโร่พลังเวทย์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqVzFMUDRVYXhxWk0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ผจญภัยเมืองมหัศจรรย์
-http://guru.smoothboxtv.com/newmovie2/0Byp822GLYTYqQmp3MTBoMXFsVDg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",A Girl in the River: The Price of Forgiveness
-http://guru.smoothboxtv.com/newmovie2/0B9Z1rGHdhWO1ZzF2M3Z2cTFZdWc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สงครามอวกาศและเจ้าหญิงฮิมาวาริ
-http://guru2.smoothboxtv.com/newmovie3/1_fmg3jmkGfT-ThqLqQkbe6L0-Bsy41s-.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ข้ามเวลามาป่วนโลก
-http://guru2.smoothboxtv.com/newmovie3/1SG6dgeKbQjQcwjQ6KRUmTzpBjNo8WKE8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ราพันเซล เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ
-http://guru2.smoothboxtv.com/newmovie3/1UBhzFlm7BHdJz9xbANKxCaxh9Mqk6LdF.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ออสโมซิส โจนส์ มือปราบอณูจิ๋ว
-http://guru2.smoothboxtv.com/newmovie3/1SiPb-IL_x0EtP6O_RF6mAfed6tc8XuLb.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",อาณาจักรแห่งดนตรี
-http://guru2.smoothboxtv.com/newmovie3/17hbhr1J7qazSuAsr0MuftPNRWHWK5rR6.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แบทแมน: ความเงียบ
-http://guru2.smoothboxtv.com/newmovie3/17PWHTPJNOESj7mgQSjFGzS-Z4_3_RVAg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซีเครท เซเว่น พลังลึกลับที่กำเนิดมาจากศิล
-http://guru2.smoothboxtv.com/newmovie3/1ch_LZh0m4mC9ojDywbBtEj6vnWbhSsRF.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ก๊วนเหมียวหง่าน
-้http://guru.smoothboxtv.com/newmovie2/1_ZQXbJrgWLGWRXa33I-3uCGPuOpBt3x9.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ศาสดาพักร้อน
-http://guru2.smoothboxtv.com/newmovie3/1hPfmUqe7L2g8JAZK8SGeTnM5_TijLzpG.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เชอร์ล็อค โนมส์
-http://guru2.smoothboxtv.com/newmovie3/1Is-ar3G9qtgiEFPISWcRwWwR250dY5b_.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บันทึกสงครามของยัยเผด็จการ
-http://guru2.smoothboxtv.com/newmovie3/1JRkUY88CFYmdvmip7wJpMjOBmPXFhIX5.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เบซิล นักสืบหนูผู้พิทักษ์
-http://guru2.smoothboxtv.com/newmovie3/1_dktz1TH1M7XFzY3Pdh6pAfkDBrL6X-f.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เดอะ ครู้ดส์
-http://guru2.smoothboxtv.com/newmovie3/1BfnJMngogP21uRX7e8MMMnCvh_IWDHEQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มาสค์ไรเดอร์บิลด์
-http://guru2.smoothboxtv.com/newmovie3/1Ojez5qJpPfb6B5EOuvspbw8EssNZKx9s.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สปิริต ม้าแสนรู้มหัศจรรย์ผจญภัย
-http://guru2.smoothboxtv.com/newmovie3/1PLsCdd7L-BiCsW1jyc50fTIHIwNd2Iuz.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ปีเตอร์ แพน
-http://guru2.smoothboxtv.com/newmovie3/1Xe30_8d1Jugm4CT3-kbn2y0kkG3Oc7By.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แมวเหมียวพเนจร
-http://guru2.smoothboxtv.com/newmovie3/1haD3S38mDxvy6hJEafY0CoOxoeDflqck.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เฮอร์คิวลิส
-http://guru2.smoothboxtv.com/newmovie3/1_u9L8eCRRgjKBUjJcogtbtIHQbGQdE_o.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มิไร มหัศจรรย์วันสองวัย
-http://guru2.smoothboxtv.com/newmovie3/11ZtvLYacWaU7vqLS3LzF_YEe6HAwtIRQ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เรื่องลับแก๊งขนฟู 2
-http://guru2.smoothboxtv.com/newmovie3/1NXIJMr00BQ0NZijA7gDrPhspJM7GKKGh.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แก็งค์เขาดินซิ่งป่วนป่า
-http://guru2.smoothboxtv.com/newmovie3/14COaE5ZdB2suCghWHKO_-KCoapvd0SXj.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เจ้าหญิงนิทรา
-http://guru2.smoothboxtv.com/newmovie3/1Teo5MY8dJlHqj3VOKyHEA-XaqO1gZx1Z.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ลูแปงที่ 3
-http://guru.smoothboxtv.com/newmovie2/0B-8hJD93zNZRMS13R0xBSWRiM2c.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มิกกี้เมาท์ สามทหารเสือ
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1OHZ0WFRra0FFTFk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",1 มหัศจรรย์ลูกชิ้นตกทะลุมิติ
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1NDE2QmNFMGo0REU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",2 มหัศจรรย์ลูกชิ้นตกทะลุมิติ
-http://guru.smoothboxtv.com/newmovie2/0B5WfQfBoQ9q1b0J2ZjR6Q21yNWc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ครุฑ มหายุทธ หิมพานต์
-http://guru2.smoothboxtv.com/newmovie3/1ZEJnerLis4tgmmazc0yKPjYo8Tk9u4XV.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",วันพีช-เดอะฟิมโกล
-http://guru2.smoothboxtv.com/newmovie3/1x7b0Yu0ojWMq7e96qUjLGxmNcVQCTXia.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",คู่ซ่าล่ามนต์มหัศจรรย์
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0014207-1080p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ผจญแดนตุ๊กตามหัศจรรย์
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/en0014027-1080p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ครอบครัวต้องมาก่อน
-http://guru2.smoothboxtv.com/newmovie3/1TTeDN-yvREYY_wzugvl2SoITB7oW4bZi.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เพราะหัวใจใกล้ตับอ่อน
-http://guru2.smoothboxtv.com/newmovie3/1g84WrXbOs1u7Kbm3z_vOf9SptIvjwm5k.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โฮมออนเดอะเรนจ์
-http://guru2.smoothboxtv.com/newmovie3/1BlsOYrPLglTdgv0rzW6tNHyBkySCxdaS.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เทรเชอร์ แพลเน็ต ผจญภัยล่าขุมทรัพย์ดาวมฤตยู
-http://guru2.smoothboxtv.com/newmovie3/1IR4TcwXrkImSPm5Kbro_8ZMauExSUy8P.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",หนูหริ่งหนูหรั่งผจญเพชรตาปีศาจ
-http://guru2.smoothboxtv.com/newmovie3/1AJhISJQlsJz1k3fnmR-Bag_DhsHwwSRa.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",คู่หูจอมป่วนกวนข้ามมิติ
-http://guru2.smoothboxtv.com/newmovie3/1NgVyQu9nry-COOPLHLsGwaiQZ86gbz3b.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซอร์ต อาร์ต ออนไลน์ เดอะ มูฟวี่ ออร์ดินอล สเกล
-http://guru2.smoothboxtv.com/newmovie3/1DuKTgWzZsum7Gb6q7-CZET5IQVmRfskO.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซอร์ด อาร์ต ออนไลน์ เอ็กซ์ตร้า อิดิชั่น
-http://guru2.smoothboxtv.com/newmovie3/1hBlPeQBXjPu12UbgahfpKl2wwhC_8IGL.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ศึกชิงอัญมณีสีคราม
-http://guru2.smoothboxtv.com/newmovie3/1DdEm_ZY_EVzZYxT13TNgot1U_FOWDexU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ยักษ์
-http://guru2.smoothboxtv.com/newmovie3/108YBncMikgz-W9t92EgJdec3yLkvj7xY.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",The Beginning
-http://guru2.smoothboxtv.com/newmovie3/1KZwnadeb4sWMOQ_Q7frNGLal5g0J2dhw.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เรื่องราวแห่งผองเรา
-http://guru2.smoothboxtv.com/newmovie3/1TMA51tH0Gem6S44zu56wtsXQ4bCjmKEO.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ธัมเบลีน่า เจ้าหญิงหัวแม่มือ
-http://guru2.smoothboxtv.com/newmovie3/1eFo3A9qliTnJKoPG1RYaC2b1puS_8UK6.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เอ็กซ์โซซิสท์สีคราม
-http://guru2.smoothboxtv.com/newmovie3/1F8Gmw8rOh86rVMzjyl9xCe38NdU0sZS7.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ดิ แอนิเมทริคซ์
-http://guru2.smoothboxtv.com/newmovie3/1TBAT9Ru5IosLPlrTPbxwo1geuoogamgh.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",อุลตร้าแมนโซฟี่
-http://guru2.smoothboxtv.com/newmovie3/14g9McAveUTT7gjT--VCNluSVsLVpmruM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Connect The Wishes
-http://guru2.smoothboxtv.com/newmovie3/1ECM5jXSQZCWwGXltufDvGGhCdHBS-2Bu.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",จุ้นสี่ขาหมาเจ้านาย
-http://guru2.smoothboxtv.com/newmovie3/10-DqcmjNoNPFc4E3MwLVu0f7efb8EKag.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน", วันหนึ่งฉันเจอเพนกวิน
-http://guru2.smoothboxtv.com/newmovie3/1JdgD4U6IKDsfLuBO6OwEHjHFlBWET4f0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สมอลล์ฟุต
-http://guru2.smoothboxtv.com/newmovie3/1n8VdakoucsOedzL5Pr34oRlMGiCtNxGU.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เดอะ ไลอ้อน คิง
-http://guru2.smoothboxtv.com/newmovie3/1Nt_yFGsl-NHWpxq-jemPMGwM8fTQZrWr.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",บ้านผีสิง
-http://guru2.smoothboxtv.com/newmovie3/1HynR171IZhkKnZOr7GeysPtuHIlfVw0R.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซาโยอาสะ
-http://guru2.smoothboxtv.com/newmovie3/1f3RqDE1KpLuiXJqCvHGCwSSxcadt-fb8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สลัดอวกาศ กัปตันฮาร็อค
-http://guru2.smoothboxtv.com/newmovie3/1twSc3YVTiPDU-pW6rCF_UnYlINZkWj8m.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แซมมี่ 2 ต.เต่า ซ่าส์ไม่มีเบรก
-http://guru2.smoothboxtv.com/newmovie3/1rGNdL5aE9KoKPUOXTCjvQ-9wwqaCQ5yB.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ความตายและการกลับมาของซูเปอร์แมน
-http://guru2.smoothboxtv.com/newmovie3/17CTV_YOz5vm9z2n1BxXa9C2UgXOLjuTx.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",นักรบสาวหัวใจมหากาฬ
-http://guru2.smoothboxtv.com/newmovie3/1BfwFyJX7FAB-q-xymxNfirRgn_mxto8l.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มิติวิญญาณมหัศจรรย์
-http://guru2.smoothboxtv.com/newmovie3/19enkpDl26FLN-Qm_wCyi2BF1SOf8v_Bm.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",มหัศจรรย์ตำนานคริสต์มาส
-http://guru2.smoothboxtv.com/newmovie3/1jfh5asK5nNdl_235HHCb0_mLFsqdF5PS.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ทามาโกะ เลิฟ สตอรี่
-http://guru2.smoothboxtv.com/newmovie3/17X4V4ODkka4C-9m0QQ322OY-IB-R1Awg.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เกาะเซ็ตซีโร่หมา
-http://guru2.smoothboxtv.com/newmovie3/1rC0a6fO46e0SueravGFueUIGuZJqiCQW.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โนบิตะผู้กล้าแห่งอวกาศ
-http://guru2.smoothboxtv.com/newmovie3/1yqexwUdiEFPy8vhOLjxfMN6glzGHnW_z.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ศึกจอมเวท พันธุ์มังกร
-http://guru2.smoothboxtv.com/newmovie3/1GQOgkj0_0Z9n8d7WpsmtxgPFOGouQXMc.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ความลับแห่งต้นกำเนิด เมี้ยว
-http://guru2.smoothboxtv.com/newmovie3/1RUPYIdrtNO9AkeZsMIzCngs7EXSwJfkM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โนมิโอ กับ จูเลียต
-http://guru2.smoothboxtv.com/newmovie3/1muKSRt1eVPjHcWwpZuSdwgQKCZOiuOBt.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",นาจา
-http://guru.smoothboxtv.com/newmovie2/1sB3vg2d2AZtCU4QEwD5vPKpBsZcLe-WN.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สงครามแห่งราชันย์
-http://guru2.smoothboxtv.com/newmovie3/1E5gETyKTh-FH4JWMJcIs-KgUQ0S_1YTM.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ไฟนอล แฟนตาซี
-http://guru2.smoothboxtv.com/newmovie3/1OWufNsJloOXDJMvAzKzOgRka54F64Cz8.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Playmobil
-http://guru.smoothboxtv.com/newmovie2/1SEU_T6gmqUXnrfbbRwWHmXW5ZhxRbOCO.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",LIFE QUEST
-http://guru2.smoothboxtv.com/newmovie3/1CGbIGUhw7-bhZgreUXv-LKauuEHRbKTh.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Here
-http://guru2.smoothboxtv.com/newmovie3/18avfaq-fOnbLfDHgwtJBZP_LbDu11MDy.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Here
-http://guru2.smoothboxtv.com/newmovie3/1kEqEQTqylIk7yYQP4UvdGl_H4nA7OqGA.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
-http://guru2.smoothboxtv.com/newmovie3/1jTcHtCtaIxf6QyrjIh0INTMPyQVLMxPG.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",โค้ดกีอัส การคืนชีพของลูลูช
-http://guru2.smoothboxtv.com/newmovie3/1UGMKzG9ZQbVjKs8aexlZstrqly8mcD5u.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ตูบทรอเบิล ไฮโซจรจัด
-http://guru.smoothboxtv.com/newmovie2/1BTrvg5o2zqDvifCtLwD5LTVgXgZKXoQ4.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",สแตมปีด
-http://guru.smoothboxtv.com/newmovie2/14nlMaFinJbBM9CYFD0_YRtFpmHSaObSJ.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ ปี๊ป
-http://guru.smoothboxtv.com/newmovie2/15j77yhXe5Zm7CSdkBq99ZvEqmoUIL_K0.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ไซโคพาส ถอดรหัสล่า
-http://guru2.smoothboxtv.com/newmovie3/16HvqyHvHqtUFGHIMr9nq0YWS7ZWNl10w.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ดั๊ก ดั๊ก กู๊ส
-http://guru.smoothboxtv.com/newmovie2/1Qm0i1xNPCh9PaeLP0jz4GgmxajWNoXAF.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",คนจักรกลสงคราม ล้างพันธุ์อนาคต
-http://guru.smoothboxtv.com/newmovie2/1vjuAbY1voNy5iz5LlzjejUnFUa0JAJt-.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ผจญภัยปริศนาราชินีหิมะ
-http://guru.smoothboxtv.com/newmovie2/1xgW3LcMpnvd_yg5LbKcJp6Tlju6o7pgw.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เอเวอเรสต์ มนุษย์หิมะเพื่อนรัก
-http://guru.smoothboxtv.com/newmovie2/1P2mHkorYVqpVtouUMY7trBgSBx7WOjm1.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เหนือเมฆา...ที่แห่งสัญญาของเรา
-http://guru.smoothboxtv.com/newmovie2/1EO4e1xbfVzaNgKXbpXek1ZcYBrQmjDrI.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",รุ่งอรุณแห่งนักบุญ
-http://guru.smoothboxtv.com/newmovie2/120jqb1BqWgwQp0uxGIDX8gjA0hYMegCV.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เลดี้และคนจรจัด
-http://guru.smoothboxtv.com/newmovie2/1mN_Mawm5O5HDj3LFD6C-7BJcfIBIKHdF.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",แอ็งกรี เบิร์ดส เดอะ มูวี่ 2
-http://guru.smoothboxtv.com/newmovie2/1rHYFw7jD924qZ1xZyu1sQQhsWVXEceqe.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ผจญแดนตุ๊กตามหัศจรรย์
-http://guru.smoothboxtv.com/newmovie2/1HXBPh9ZqesFoZCMTEnJ5B0WUYDGw-yLk.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ดราก้อน เควสท์ ชี้ชะตา
-http://guru.smoothboxtv.com/newmovie2/1J8KbpmXtowQti4NbtFDkLPbZrLYrzM_T.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",รุกะผจญภัยโลกใต้ทะเล
-http://guru.smoothboxtv.com/newmovie2/1SOC17kPmNIx2_sXFClI3JZb3QqfsvbvE.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เทพยุทธ์เซียนกลอรี่
-http://guru.smoothboxtv.com/newmovie2/1b2y39Boe4Aw-6C_tMTWeEeLyNSwjtq_l.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Steven Universe
-http://guru.smoothboxtv.com/newmovie2/1tcBy14QOhiZej-DWY7SNg0zLZuUpo0Of.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Superman: Red Son
-http://guru.smoothboxtv.com/newmovie2/1Zx_GkVsjsV0tAEFSFWhAUBvfVd59n-EY.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",Reign of the Supermen
-http://guru.smoothboxtv.com/newmovie2/1IUBh5GIhLRafOsafqenbM6lMfru7nqUS.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",ความแค้นของมิวทู อีโวลูชัน
-http://guru.smoothboxtv.com/newmovie2/1LIl_miOb04j0wv1tHtHhGqCZ-0aKKZSB.mp4
-#EXTINF:-1 group-title="หนังการ์ตูน",เจาะยุคนํ้าแข็ง3
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006298-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",เจาะยุคนํ้าแข็ง4
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006299-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",เจาะยุคนํ้าแข็ง5
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006300-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ยอดสปาย​
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0014090-360p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",แพลนส์ เหินซิ่งชิงเจ้าเวหา
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0005741-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",สคูบี้ดู
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0005923-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ตระกูลนี้ผียังหลบ
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0013762-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",กุ๊กไก่หัวใจพิทักษ์โลก
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006696-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",กาฟิว-1
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0001407-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",กาฟิว-2
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0001408-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",พ่อครัวตัวจี้ด หัวใจคับโลก-Ratatouille
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006590-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",9 ศาสตรา
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006542-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้แห่งพีกาซัส
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006261-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ในดินแดนมหาสมุทร
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006260-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ใน 12 เจ้าหญิงเริงระบํา
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006258-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ โรงเรียนแห่งเจ้าหญิง
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006247-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ กับคริสมัสในฝัน
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006246-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้กับมหัศจรรย์รองเท้่าสีชมพู
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006243-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",เจ้าหญิงบาร์บี้
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006244-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ซ่ากับเจ้าหญิงเทพธิดา
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006242-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",บาร์บี้ เจ้าหญิงพลังมหัศจรรย์
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006238-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ราล์ฟ 1
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006212-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ราล์ฟ 2
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0005936-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",เจาะยุคนํ้าแข็ง1
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006296-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",เจาะยุคนํ้าแข็ง2
-https://edge-cache-1.stream-cdn.com/hls/storage2/vod/th0006297-720p.mp4/index.m3u8
-#EXTINF:-1 group-title="หนังการ์ตูน",ปริศนาราชินีหิมะ 2  
-https://edge-cache-1.stream-cdn.com/hls/storage1/vod/th0004719-360p.mp4/index.m3u8
 
 
 
@@ -1138,14 +423,7 @@ http://vec-streaming01.r-channel.net:1935/live1/live1.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
-http://183.182.100.184/live/mcothd/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
-https://doofootball.livestream-cdn.com/iptv/hd-gmmone.stream/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
 
 #==================== Sports   =====================#
 
@@ -1497,22 +775,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
-http://203.154.243.31:8081/live/boomerrang/index.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
@@ -1642,7 +904,7 @@ http://203.162.235.41:16911
 http://203.162.235.41:16915
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",BS NTV
 http://203.162.235.41:16912
- #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU",BS TBS
+#EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqhGDHOq-dm--yaeWpwAiInDea-dMnsiVJehDHumPqJIM8Nxq&usqp=CAU",BS TBS
 http://203.162.235.41:16913
 #EXTINF:-1 group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4lfQSzkRHXg42Pwmv500FM4vBfoGwDrPks8kwRTglnNCt8bDCTP3q2sn&s=10",Golf Network
 http://203.162.235.41:16924
@@ -2043,7 +1305,204 @@ http://radio1.comgig.com:4096/;stream.m4a
 
 
 
+#==================================================================================================
 
+
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064652.jpg",Tenet เทเน็ท (2020)
+https://lb1.one3up.com/hls/e5cc8d83734c0266ebee16b949bbe3ea/e5cc8d83734c0266ebee16b949bbe3ea.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064225.jpg",Attraction 2 Invasion (2020) มหาวิบัติเอเลี่ยนถล่มโลก 2
+https://lb1.one3up.com/hls/42d5e16572b86619ec9789889e2f558d/42d5e16572b86619ec9789889e2f558d.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
+https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/The-Kill-List.jpg",The Kill List (2020) ล่า ล้าง บัญชี
+https://cdn.jebriko.ru/vod/disk3/movies/theklst.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
+https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.ytimg.com/vi/xw1vQgVaYNQ/hqdefault.jpg",E.Project Power[2020]
+https://streamhee.com/2020_new/Project.Power.2020/Project.Power.2020.1080P.mp4.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.sae-lao.com/wp-content/uploads/2020/08/224e7f69c0e6384755896a784e8d34f5-210x300.jpg",T.พี่นาค 2[2020]
+https://lb1.one3up.com/hls/a4810e41ac7488be4877b03c42a886e5/a4810e41ac7488be4877b03c42a886e5.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062035.jpg",(Zoom)E.บีบแตรครั้งเดียว ชีวิตเปลี่ยน ตลอดกาล
+https://lb1.one3up.com/hls/6dd3b53f67597b036b7b20c47437e761/6dd3b53f67597b036b7b20c47437e761.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062023.jpg",K.Secret Zoo เฟค Zoo สู้โว้ย!
+https://lb1.one3up.com/hls/c5a1de5cafb5365a93d05841198be6a0/c5a1de5cafb5365a93d05841198be6a0.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-18-062002.jpg",E.Black Water Abyss "มัน" จะขย้ำไม่รู้ตัว
+https://lb1.one3up.com/hls/6f5b2932927fdcb8642f6652b90ac1c3/6f5b2932927fdcb8642f6652b90ac1c3.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://movie285.com/wp-content/uploads/2020/08/p618.jpg",latte the magic waterstone
+https://freeball96.com/D/M08364.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-06-034258.jpg",ชินจัง the Movie
+https://freeball96.com/D/M08358.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-07-030234.jpg",SPY INTERVENTION
+https://cdn.doraino.to/vod/disk4/vyport.mp4
+#EXTINF:-1 group-title="MOVIE VOD"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-07-030249.jpg",ซุมิกโกะ
+https://cache-movie.akaanime.com/hls/content/nas05/mvc/M/Asia/Sumikko_Gurashi_the_Movie_2019/Sumikko_Gurashi_the_Movie2019_th.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://f.ptcdn.info/771/067/000/q4bgfco7v3APBMPq0eb-o.jpg",มือปื่นโลกพระจัน 2
+https://cdn.doraino.to/vod/disk4/sodma2.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//3ca4189ab96712e4c1af2aed87d62d74.jpg",The Maid (2020) สาวลับใช้
+https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Thai//The-Maid-2020//The-Maid-2020-T.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//a1124fd7ca765a854db7985743ec1b9a.jpg",The Old Guard (2020) ดิ โอลด์ การ์ด
+https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Inter//The-Old-Guard//The-Old-Guard-T.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/keXCxynRjtcedhRtFOYVjDArUQFoJKMqOxJBnZOe.jpg",Classic Again (2020) จดหมาย สายฝน ร่มวิเศษ
+http://movie.chang55.com/newmovie4/1Cwq0P05KP5Dg1A88jLOU1VK7xReGSPp-.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//e49da277562a8ae3273d72eeb1860a67.jpg",สุขสันต์วันโสด
+https://freeball96.com/D/M08179.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.movie123hd.com/wp-content/uploads/2020/06/Still.Missing-1-scaled.jpg",Still Missing (2020) พราก
+http://movie.chang55.com/newmovie4/1BdZtlWkiel9IQvhAu3shbnT-I5PqweFT.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/Train-to-Busan-2016-ด่วนนรกซอมบี้คลั่ง_cover.jpg",ด่วนนรกซอมบี้คลั่ง Train to Busan
+https://cache-movie.akaanime.com//hls//content//nas05//mvc//M//Inter//Train_to_Busan_2016//Train_to_Busan_2016_th.mp4//index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2020/07/Look-Out-Officer-1990.jpg",Look Out Officer คนเล็กทะลุโลก
+https://lb1.one3up.com/hls/36cbacd6efd127bf2ef2d47854b07bc5/36cbacd6efd127bf2ef2d47854b07bc5.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/JLuMollIt51WY1Y7dRyjVuv2BiSpPnVeXvwr0q1c.jpg",365 DNI(2020) (20+) ซับไทย
+http://movie.chang55.com/newmovie4/1CnL3feYJDOFak9j5EkoPiolPtK623j8h.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.doofree88.com/storage/images/2020/6/JLuMollIt51WY1Y7dRyjVuv2BiSpPnVeXvwr0q1c.jpg",365 DNI(2020) (20+) ซับไทย
+https://cache-edge1.movieclubhd.tv/hls/content/nas05/mvc/M/Inter/365_Days/365_Days_ST_2020.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="http://appyouflix.youflixmovies.xyz//uploads//cache//poster_thumb//uploads//jpg//e49da277562a8ae3273d72eeb1860a67.jpg",Low Season (2020) สุขสันต์วันโสด
+https://freeball96.com/D/M08179.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.pinimg.com/474x/d5/aa/28/d5aa285d771a0d9fb410ec69cc328f30.jpg",ขุนแผน ฟ้าฟื้น
+https://cdn.movietok.is/vod/disk4/khunpe.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://i.ytimg.com/vi/D93WVojfowk/hqdefault.jpg",โจรปล้นโจร
+https://cdn.movietok.is/vod/disk4/ytujgu.mp4
+#EXTINF:-1 group-title="MOVIE VOD",ไทบ้าน BNK48 จากใจผู้สาวคนนี้ (2020)
+http://ktu.ktuiptvapp.com/9999/bnk482.mkv
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats (2019) แคทส์
+https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/My-Spy.jpg",My Spy พยัคฆ์ร้าย สปายแสบ (2020) 
+https://cdn.jebriko.ru/vod/disk3/movies/mmyspyn.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/The-Rhythm-Section.jpg",The Rhythm Section โครตสาวมือมือพระกาฬ (2020) 
+https://cdn.jebriko.ru/vod/disk3/movies/mnseqi.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/Cats.jpg",Cats แคทส์ (2019)
+https://cdn.jebriko.ru/vod/disk3/movies/citspo.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/04/22-Chaser-249x323.jpg",22 Chaser 22 นักล่า (2018) 
+https://cdn.jebriko.ru/vod/disk3/movies/2ch22i.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Maska..jpg",Maska (2020) เส้นแบ่งฝัน
+https://cdn.jebriko.ru/vod/disk3/movies/mateix.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Spider-in-the-Web.jpg",Spider in the Web (2019) สไปเดอร์ อิน เดอะเว็บ
+https://cdn.jebriko.ru/vod/disk3/movies/spdhw.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://www.หนังออนไลน์.live/wp-content/uploads/2020/03/Gi%C3%A1ng-Sinh-%C4%90en.jpg",Black Christmas (2019) คริสต์มาสเชือดสยอง
+https://cdn.jebriko.ru/vod/disk3/movies/bakchs.mp4
+
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Avatar (2009)
+https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Independence Day-วันสิ้นโลก2012
+http://cdn-vod.kodi-live.com/hls/content/storage2/movie1/Vol3/2015/2012.(2009).mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 1(2007)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413855/1513413855_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 2 Revenge Of The Fallen(2009)
+https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513487216/1513487216_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 3 Dark Of The Moon(2011)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513413876/1513413876_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Transformers 4 Age Of Extinction(2014)
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513434647/1513434647_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD",Thor 1(2011)-เทพเจ้าสายฟ้า
+https://glus-st.mthcdn.com/stream/video02/2018/02/06/1517891210/1517891210_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD",Thor 2(2013)-เทพเจ้าสายฟ้า
+https://glus-st.mthcdn.com/stream/video02/2018/02/05/1517818285/1517818285_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD",Captain America 1
+https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516797460/1516797460_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD",Captain America 2
+https://glus-st.mthcdn.com/stream/video02/2018/01/24/1516797522/1516797522_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD",Captain America 3
+https://glus-st.mthcdn.com/stream/video02/2018/01/14/1515936618/1515936618_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD",จันดารา ปฐมบท 1
+https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069926/1518069926_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD",จันดารา ปฐมบท 2
+https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069863/1518069863_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ผ่ายุทธการถล่มลอนดอน
+https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516172808/1516172808_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",พลาทูน PLATOON (1986) 
+https://glus-st.mthcdn.com/stream/video02/2018/02/20/1519131402/1519131402_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",วันยึดโลก
+https://glus-st.mthcdn.com/stream/video02/2017/12/19/1513656764/1513656764_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",หน่วยพิฆาต ระห่ำกู้โลก Act of Valor (2012) 
+https://glus-st.mthcdn.com/stream/video02/2018/01/22/1516604236/1516604236_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Black-Hawk-Down-2001
+https://glus-st.mthcdn.com/stream/video02/2017/12/09/1512826087/1512826087_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เมืองห่าผี
+https://glus-st.mthcdn.com/stream/video02/2018/05/25/1527238790/1527238790_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ไฟนรกถล่มปอมเปอี
+https://glus-st.mthcdn.com/stream/video02/2018/06/20/1529477470/1529477470_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ศึกดวงดาวพิฆาตสะท้านจักรวาล
+https://glus-st.mthcdn.com/stream/video02/2018/02/02/1517581484/1517581484_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",พีทกับมังกรมหัศจรรย์
+https://glus-st.mthcdn.com/stream/video02/2018/01/09/1515495969/1515495969_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",แฟนแทสติก โฟร์ 1 Fantastic Four (2015)
+https://glus-st.mthcdn.com/stream/video02/2018/01/23/1516714567/1516714567_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เอ้า จิงปะปู่
+https://glus-st.mthcdn.com/stream/video02/2018/01/07/1515326254/1515326254_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อเมริกัน-เมด
+https://glus-st.mthcdn.com/stream/video02/2017/12/17/1513481673/1513481673_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เพชฌฆาตแม่มด
+https://glus-st.mthcdn.com/stream/video02/2018/01/22/1516620581/1516620581_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ท็อปกัน ฟ้าเหนือฟ้า
+https://glus-st.mthcdn.com/stream/videoadmin/2018/03/26/1522044780/1522044780_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เกมปล้นนรก
+https://edge-cache-1.stream-cdn.com/hls/storage1/vod/en0014008-1080p.mp4/index.m3u8
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",CHIPS
+https://glus-st.mthcdn.com/stream/video02/2017/12/04/1512364851/1512364851_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อวตาร   Avatar (2009)
+https://glus-st.mthcdn.com/stream/video02/2018/01/11/1515662135/1515662135_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",จี้ เบบี้ ปล้น   Baby Driver (2017)
+https://glus-st.mthcdn.com/stream/video02/2018/02/14/1518615758/1518615758_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อีเกิ้ล อาย แผนสังหารพลิกนรก  Eagle Eye (2008)
+https://glus-st.mthcdn.com/stream/video02/2018/01/31/1517373169/1517373169_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ดาวินชี่
+https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516168240/1516168240_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",นักฆ่าโคตรอึด  Death Wish (2018)
+https://glus-st.mthcdn.com/stream/video02/2018/06/15/1529042253/1529042253_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",โคตรนรกปล้นเหนือเมฆ
+https://glus-st.mthcdn.com/stream/video02/2018/05/28/1527471530/1527471530_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",โกงกระฉ่อนโลก
+https://glus-st.mthcdn.com/stream/video02/2017/12/05/1512442122/1512442122_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เบลด รันเนอร์
+https://glus-st.mthcdn.com/stream/video02/2017/12/29/1514556935/1514556935_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เอรากอน
+https://glus-st.mthcdn.com/stream/video02/2018/05/20/1526753206/1526753206_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มหาวิบัติสงคราม Z
+https://glus-st.mthcdn.com/stream/video02/2017/12/10/1512923619/1512923619_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ถอดรหัสลับ อัจฉริยะพลิกโลก
+https://glus-st.mthcdn.com/stream/video02/2017/12/25/1514176598/1514176598_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",อัจฉริยะคนบัญชีเพชฌฆาต
+https://glus-st.mthcdn.com/stream/video02/2018/01/07/1515323787/1515323787_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Insidious 4 วิญญานตามติด-4
+https://glus-st.mthcdn.com/stream/video02/2018/04/07/1523083414/1523083414_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",Chef 2014
+https://glus-st.mthcdn.com/stream/video02/2018/02/08/1518069753/1518069753_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ฝ่าวิบัติเพลิงนรก
+https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515396633/1515396633_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",จักรกลเปลี่ยนโลก
+https://glus-st.mthcdn.com/stream/video02/2018/02/01/1517457284/1517457284_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",คืนอัศจรรย์ขนหัวลุก
+https://glus-st.mthcdn.com/stream/video02/2018/01/28/1517152677/1517152677_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ปาฏิหาริย์แดนประหาร
+https://glus-st.mthcdn.com/stream/video02/2018/01/17/1516124038/1516124038_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เจ้าพ่ออัลคาโปน The Untouchables 1987
+https://glus-st.mthcdn.com/stream/video02/2018/03/28/1522214852/1522214852_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มหากาฬล้างมหากาฬ
+https://glus-st.mthcdn.com/stream/video02/2017/12/22/1513917242/1513917242_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ซัลลี่ ปาฏิหาริย์ที่แม่น้ำฮัดสัน
+https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515402206/1515402206_720.mp4
+
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",หงส์หามเต่า
+https://glus-st.mthcdn.com/stream/video02/2018/04/09/1523279007/1523279007_360.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",เพราะอากาศเปลี่ยนแปลงบ่อย
+https://glus-st.mthcdn.com/stream/video02/2018/02/19/1519053924/1519053924_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",รักหมดแก้ว
+https://glus-st.mthcdn.com/stream/video02/2018/02/01/1517456437/1517456437_360.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",11 12 13 รักกันจะตาย
+https://glus-st.mthcdn.com/stream/video02/2018/01/12/1515737713/1515737713_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",สี่เส้า
+https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515401533/1515401533_480.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",แม่เบี้ย
+https://glus-st.mthcdn.com/stream/video02/2018/01/08/1515400351/1515400351_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",มนต์รักขุมคำ
+https://glus-st.mthcdn.com/stream/video02/2018/01/01/1514779517/1514779517_720.mp4
+#EXTINF:-1 group-title="MOVIE VOD" tvg-logo="",ฮักนะ ‘สารคาม
+https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513441554/1513441554_480.mp4
+
+
+
+
+#==========================================================================================================
 
 #EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
@@ -2442,7 +1901,6 @@ https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP0
 #EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP10(จบ)
 https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP10.mp4/index.m3u8
 
-
 #EXTINF:-1 group-title="AV-TH" tvg-logo="https://i0.wp.com/www.av-th.net/wp-content/uploads/2020/11/pppd868pl-360x203.jpg",PPPD-868
 https://server2.jav-tha.ml/hls/RBHCadX/file_720.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="AV-TH" tvg-logo="https://i0.wp.com/www.av-th.net/wp-content/uploads/2020/09/mide789pl-360x203.jpg",MIDE-789
@@ -2513,6 +1971,321 @@ https://server2.jav-tha.ml/hls/vBSCWa7/file_1080.mp4/index-v1-a1.m3u8
 https://server2.jav-tha.ml/hls/vPmph48/file_1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="AV-TH" tvg-logo="https://i0.wp.com/www.av-th.net/wp-content/uploads/2020/10/1sdde624pl-360x203.jpg",sdde-624
 https://server1.jav-tha.ml/hls/KDazdRu/file_1080.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/VQK8LFE139.jpg" group-title="Jav HD Elite", VDD-139 女医生 in… ［强迫sweet room］ 卯水咲流
+http://videocdn.dlyilian.com:8091/20190331/VQK8LFE139/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/VI2RTYUI390.jpg" group-title="Jav HD Elite", VICD-390 在读 美大女大学生 真正破处 小川真白
+http://videocdn.dlyilian.com:8091/20190331/VI2RTYUI390/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SS6IHN324.jpg" group-title="Jav HD Elite", SSNI-324 空姐鬼畜轮姦～标誌性的美人空姐～ 葵都香纱
+http://videocdn.dlyilian.com:8091/20190331/SS6IHN324/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/YO1HJYF358.jpg" group-title="Jav HD Elite", YOZ-358 地铁站沿线蕩妇女孩工作的妓院
+http://videocdn.dlyilian.com:8091/20190331/YO1HJYF358/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/ST9KUQ004.jpg" group-title="Jav HD Elite", STARS-004 加藤桃香 马上要结婚的SOD女员工被【奴隶化·屈服·完全压制】强姦~戴耳机骑自行车的女孩被盯上~
+http://videocdn.dlyilian.com:8091/20190331/ST9KUQ004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SD0MYS892.jpg" group-title="Jav HD Elite", SDMU-892 SOD女员工 精液射光？！真正内射21次！【高潮小穴】非常紧的现实感在这个飞机杯开发的专案组再现，模特选拔无套大乱交！
+http://videocdn.dlyilian.com:8091/20190331/SD0MYS892/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/TS6KUBZ407.jpg" group-title="Jav HD Elite", TSP-407 机场附近的混浴露天温泉是空姐们最喜欢的地方！ 在这里喝酒上床的这件事3
+http://videocdn.dlyilian.com:8091/20190331/TS6KUBZ407/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SQK4EFL552.jpg" group-title="Jav HD Elite", SDDE-552 以「制服?内裤?全裸」陪伴你的跨坐男人小穴航空 9 内射航班
+http://videocdn.dlyilian.com:8091/20190331/SQK4EFL552/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SAK2TUDF810.jpg" group-title="Jav HD Elite", SHKD-810 轮姦学校 西野翔
+http://videocdn.dlyilian.com:8091/20190331/SAK2TUDF810/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/TA6UJYD027.jpg" group-title="Jav HD Elite", TAAK-027 刚搬来的是狂被性骚扰肉感女大生 神宫寺奈绪
+http://videocdn.dlyilian.com:8091/20190331/TA6UJYD027/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SG2QDGFZ223.jpg" group-title="Jav HD Elite", SGSR-223 喝酒的好时候！！ 一直在意的可爱同僚女社员乘醉在激情做爱中 12人4小时
+http://videocdn.dlyilian.com:8091/20190331/SG2QDGFZ223/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SA7IOPFW377.jpg" group-title="Jav HD Elite", SABA-377 无套内射离家出走的制服美少女 002 小枫
+http://videocdn.dlyilian.com:8091/20190331/SA7IOPFW377/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/TMI2GFNB118.jpg" group-title="Jav HD Elite", TMCY-118 女子大学生，在找工作。
+http://videocdn.dlyilian.com:8091/20190331/TMI2GFNB118/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SNR4YES176.jpg" group-title="Jav HD Elite", HD SSNI-176 新人女优第一名阿由叶亚美AV出道作！ 名牌大学毕业的苗条女大学生有码高清
+http://videocdn.dlyilian.com:8091/20190331/SNR4YES176/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/PR5HBNS116.jpg" group-title="Jav HD Elite", HD PRED-116 追击口交达人 射精后阴茎又勃起！喜欢口交的在读女大学生AV出演！ 深田咏美有码高清
+http://videocdn.dlyilian.com:8091/20190331/PR5HBNS116/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SS8IOUKF328.jpg" group-title="Jav HD Elite", SSNI-328 女子大学生 在电车上强忍羞耻声音连续高潮的数天 日菜菜彩音
+http://videocdn.dlyilian.com:8091/20190331/SS8IOUKF328/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SD7UIBG906.jpg" group-title="Jav HD Elite", SDMU-906 SOD公司星探偷拍到的AV业界新人女优做爱真实视频 柿沼凛（20）
+http://videocdn.dlyilian.com:8091/20190331/SD7UIBG906/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/PR2TUHG113.jpg" group-title="Jav HD Elite", PRED-113 知识份子女上司的中出摄影会 宝生莉莉
+http://videocdn.dlyilian.com:8091/20190331/PR2TUHG113/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SV7UKFW688.jpg" group-title="Jav HD Elite", SVDVD-688 修学旅行来到东京的乡下女学生被无套内射！一起跟她来的同学也被叫出来连环强姦4
+http://videocdn.dlyilian.com:8091/20190331/SV7UKFW688/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SK2TYUDF014.jpg" group-title="Jav HD Elite", SKMJ-014 将毕业处女学生妹！向暗恋教师告白＆拥抱＆初吻＆开干！
+http://videocdn.dlyilian.com:8091/20190331/SK2TYUDF014/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/PR1QAHT019.jpg" group-title="Jav HD Elite", PRTD-019 在屈辱中流出淫水，强制高潮失禁的要强搜查官 麻仓忧
+http://videocdn.dlyilian.com:8091/20190331/PR1QAHT019/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/ST0QARJY995.jpg" group-title="Jav HD Elite", STAR-995 百合与花蜜 纯情蕾丝边第一次败给肉棒的那天 古川伊织
+http://videocdn.dlyilian.com:8091/20190331/ST0QARJY995/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SD7PWGER884.jpg" group-title="Jav HD Elite", SDMU-884 SOD女职员 2018（里）游泳大会 在润滑油泳池中衬衫、小穴犬神都变的湿哒哒的羞耻特训！！
+http://videocdn.dlyilian.com:8091/20190331/SD7PWGER884/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/RD1QTRF911.jpg" group-title="Jav HD Elite", RD-911 色香味俱全的熟女人妻 VOL.6 清纯人妻初次在外人面前脱衣，面试的时候私处就已经……
+http://videocdn.dlyilian.com:8091/20190331/RD1QTRF911/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SS6KDFR165.jpg" group-title="Jav HD Elite", HD SSNI-165 鬼畜团体盯上癡汉搜查官 アキホ 吉泽明步有码高清
+http://videocdn.dlyilian.com:8091/20190331/SS6KDFR165/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SC2GJGF325.jpg" group-title="Jav HD Elite", SCPX-325 有着性骚扰嫌疑的男人潜入了某体育系女子大学芭蕾部的合宿房间进行偷拍！
+http://videocdn.dlyilian.com:8091/20190331/SC2GJGF325/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/RD1JRYB904.jpg" group-title="Jav HD Elite", RD-904 秀色可餐的熟女人妻 VOL.5 面试中让熟女人妻初次在自己面前半裸
+http://videocdn.dlyilian.com:8091/20190331/RD1JRYB904/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SD1GFHJ002.jpg" group-title="Jav HD Elite", SDAM-002 大学运动部女经理人给男部员不停撸！按照60分钟内射精数获得社团费！！～做爱1次3万元的究极挑战青春白浊对抗战～
+http://videocdn.dlyilian.com:8091/20190331/SD1GFHJ002/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/NK1JYGGH095.jpg" group-title="Jav HD Elite", NKKD-095 这次我的妻子（35）被打工处的职员（20）上了…→虽然很不甘心还是请你把这当AV卖了吧。
+http://videocdn.dlyilian.com:8091/20190331/NK1JYGGH095/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/PR6MHT115.jpg" group-title="Jav HD Elite", HD PRED-115 班上的高冷美女被下了春药变成我的淫乱砲友。 神宫寺奈绪有码高清
+http://videocdn.dlyilian.com:8091/20190331/PR6MHT115/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MI5HJRY057.jpg" group-title="Jav HD Elite", MIFD-057 当时很火的美少女、现在是大学生运动员！！身高175cm长腿巨臀芭蕾选手AV出道 土谷真菜（假名）
+http://videocdn.dlyilian.com:8091/20190331/MI5HJRY057/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/NA9UJR198.jpg" group-title="Jav HD Elite", NACR-198 为了让客户签约什么都愿意干的房地产女OL 真白杏
+http://videocdn.dlyilian.com:8091/20190331/NA9UJR198/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/NQ8RJYFS294.jpg" group-title="Jav HD Elite", NNPJ-294 为了增进关係一起混浴G罩杯的女大学生…
+http://videocdn.dlyilian.com:8091/20190331/NQ8RJYFS294/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MI4JYNS333.jpg" group-title="Jav HD Elite", MIAE-333 时间停止 班上的女生全被男生时停强姦 皆月光
+http://videocdn.dlyilian.com:8091/20190331/MI4JYNS333/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/NH3UJKT209.jpg" group-title="Jav HD Elite", NHDTB-209 即刻开插学生妹刚自慰到高潮痉挛肉穴！
+http://videocdn.dlyilian.com:8091/20190331/NH3UJKT209/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD5UIFE463.jpg" group-title="Jav HD Elite", MDTM-463 回家社学生妹的课后中出打工4小时 II
+http://videocdn.dlyilian.com:8091/20190331/MD5UIFE463/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/NN9GHF309.jpg" group-title="Jav HD Elite", NNPJ-309 贴拍清纯女大生初次高潮到下海57天 把妹JAPAN EXPRESS Vol.86
+http://videocdn.dlyilian.com:8091/20190331/NN9GHF309/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/ME5TJUKW444.jpg" group-title="Jav HD Elite", HD MEYD-444 女教师NTR 看到学年主任的妻子和教导主任去在修学旅行的时候… 篠田优有码高清
+http://videocdn.dlyilian.com:8091/20190331/ME5TJUKW444/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MU5JYD057.jpg" group-title="Jav HD Elite", MUDR-057 制服美少女是个侍奉内射风俗女 阿由叶亚美
+http://videocdn.dlyilian.com:8091/20190331/MU5JYD057/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD3YUTJY445.jpg" group-title="Jav HD Elite", MDTM-445 只限新人不断舔的作品制服砲友 Vol.002 岬澪
+http://videocdn.dlyilian.com:8091/20190331/MD3YUTJY445/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MQK8LOEF934.jpg" group-title="Jav HD Elite", MDB-934 性慾中枢正常化医院护士的实录病历 市桥绘里奈 花咲以杏 碧市乃
+http://videocdn.dlyilian.com:8091/20190331/MQK8LOEF934/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD6UIODF885.jpg" group-title="Jav HD Elite", MDS-885 学生妹拘束中出干砲
+http://videocdn.dlyilian.com:8091/20190331/MD6UIODF885/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MIYU3VWS323.jpg" group-title="Jav HD Elite", MIAE-323 成为受孕生活杂誌模特儿的女大生 椎名空
+http://videocdn.dlyilian.com:8091/20190331/MIYU3VWS323/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD6UIHG968.jpg" group-title="Jav HD Elite", MDB-968 萌萌可爱女大学生的内射风俗部
+http://videocdn.dlyilian.com:8091/20190331/MD6UIHG968/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MIYD1DS056.jpg" group-title="Jav HD Elite", MIFD-056 和远距离恋爱男友三个月没做过爱了，女大学生的身体愈发敏感渴求被干 慾求不满女孩AV出道！！ 山本麻衣
+http://videocdn.dlyilian.com:8091/20190331/MIYD1DS056/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD6IKHD433.jpg" group-title="Jav HD Elite", MDTM-433 无法想像谁都不给看的私立大学女学生的性爱 无套交尾03
+http://videocdn.dlyilian.com:8091/20190331/MD6IKHD433/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MIJS8WDR322.jpg" group-title="Jav HD Elite", MIAE-322 痉挛高潮轮姦 越是叫人帮忙越是粗暴所以学生会长只好忍着不出声 神宫寺奈绪
+http://videocdn.dlyilian.com:8091/20190331/MIJS8WDR322/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MD0QWHTW425.jpg" group-title="Jav HD Elite", MDTM-425 新人限定舔舔亲亲制服刺激 Vol.001 南菜月
+http://videocdn.dlyilian.com:8091/20190331/MD0QWHTW425/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/MI9PKNZ181.jpg" group-title="Jav HD Elite", MIRD-181 私立真空口交学园
+http://videocdn.dlyilian.com:8091/20190331/MI9PKNZ181/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/KA0BQU947.jpg" group-title="Jav HD Elite", KAWD-947 马上潮吹的超敏感体质G罩杯现役女大学生kawaii*出道
+http://videocdn.dlyilian.com:8091/20190331/KA0BQU947/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/JUB0SKU647.jpg" group-title="Jav HD Elite", JUY-647 在职内衣模特人妻 佐野真里 32岁 AV出道！！
+http://videocdn.dlyilian.com:8091/20190331/JUB0SKU647/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IPY3IUO228.jpg" group-title="Jav HD Elite", HD IPX-228 中年大叔和制服美少女满身大汗浑身唾液的接吻做爱 岬奈奈美有码高清
+http://videocdn.dlyilian.com:8091/20190331/IPY3IUO228/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/JU0IOKER687.jpg" group-title="Jav HD Elite", JUY-687 身材很好G罩杯胸部的短髮人妻在丈夫不知道的情况下被学生时代的学长睡了。 泷川穗乃果
+http://videocdn.dlyilian.com:8091/20190331/JU0IOKER687/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IP57JYKQ184.jpg" group-title="Jav HD Elite", IPX-184 高傲女教师被持续侵犯 屈辱内射强姦 希崎洁希卡
+http://videocdn.dlyilian.com:8091/20190331/IP57JYKQ184/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HK9JYE003.jpg" group-title="Jav HD Elite", HKD-003 和制服美女那时···水川えみる
+http://videocdn.dlyilian.com:8091/20190331/HK9JYE003/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/JU3JYBF631.jpg" group-title="Jav HD Elite", JUY-631 原空姐 专属 第2部！！ 痉挛，高潮，暴风骤雨般的追击性交。 羽田翼
+http://videocdn.dlyilian.com:8091/20190331/JU3JYBF631/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HO5YIUIO21287.jpg" group-title="Jav HD Elite", HODV-21287 我看着活动的学生们的运动裤姿态勃起了、之后就教导学生们大人的肉棒有多舒服！
+http://videocdn.dlyilian.com:8091/20190331/HO5YIUIO21287/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/GS8IOGF228.jpg" group-title="Jav HD Elite", GS-228 在女生中有名气的按摩院…不管什么女孩子都会岔开自己的双腿接受按摩，已经湿到可以拉丝的女人们
+http://videocdn.dlyilian.com:8091/20190331/GS8IOGF228/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/JU2TJUD726.jpg" group-title="Jav HD Elite", JUY-726 出差后住旅馆没想到居然和喜欢的美女上司住一间 佐佐木明希
+http://videocdn.dlyilian.com:8091/20190331/JU2TJUD726/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HO2TRYGF099.jpg" group-title="Jav HD Elite", HONB-099 【初撮り】制服ぎゃるのア○ルに指入れたり3Pしたりぶっかけ顔射したり生で中出ししたり胜手に贩売したり
+http://videocdn.dlyilian.com:8091/20190331/HO2TRYGF099/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/GS7TRHD229.jpg" group-title="Jav HD Elite", GS-229 国王游戏硬上新进女社员羞耻干砲！ 2
+http://videocdn.dlyilian.com:8091/20190331/GS7TRHD229/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/JU2HKCS994.jpg" group-title="Jav HD Elite", JUFD-994 超让人不爽的美女秘书成了我肉棒的绝对服从人肉飞机杯 本田岬
+http://videocdn.dlyilian.com:8091/20190331/JU2HKCS994/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HN9LIZ567.jpg" group-title="Jav HD Elite", HND-567 搭讪素人女大学生一边说话一边内射做爱 茜遥香
+http://videocdn.dlyilian.com:8091/20190331/HN9LIZ567/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/GD2LIYFS115.jpg" group-title="Jav HD Elite", GDHH-115 转到的学校居然要求在夏季穿着清凉！老师学生都疯狂走光！超迷你校服带来的不断勃起校园生活！2
+http://videocdn.dlyilian.com:8091/20190331/GD2LIYFS115/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IP7KUTDS224.jpg" group-title="Jav HD Elite", HD IPX-224 清纯学生的青涩性慾 性慾超强的杏老师的单人授课 日乃原杏有码高清
+http://videocdn.dlyilian.com:8091/20190331/IP7KUTDS224/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HN2RYHJ591.jpg" group-title="Jav HD Elite", HND-591 新人（自称）喜欢日本式接吻的在校女大学生参加AV拍摄 松下雏
+http://videocdn.dlyilian.com:8091/20190331/HN2RYHJ591/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/GAQJ3THU111.jpg" group-title="Jav HD Elite", GDHH-111 只想做爱的男学生和教导他的正经女教师，男学生性骚扰没办法拒绝…
+http://videocdn.dlyilian.com:8091/20190331/GAQJ3THU111/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IP4JTUD233.jpg" group-title="Jav HD Elite", HD IPX-233 癡女后宫住院楼～被几个护士推倒的你～有码高清
+http://videocdn.dlyilian.com:8091/20190331/IP4JTUD233/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HN7KLIF588.jpg" group-title="Jav HD Elite", HND-588 某天、大学的旧友会变成内射轮姦社团。 永井美雏
+http://videocdn.dlyilian.com:8091/20190331/HN7KLIF588/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/FAD8SIYUK275.jpg" group-title="Jav HD Elite", FAA-275 办公室工作的时候半夜进来了一个清洁员
+http://videocdn.dlyilian.com:8091/20190331/FAD8SIYUK275/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IP1QTRF239.jpg" group-title="Jav HD Elite", IPX-239 精英搜查官被轮姦怀孕 被癡汉组织强姦… 天海翼
+http://videocdn.dlyilian.com:8091/20190331/IP1QTRF239/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HN0UKIER600.jpg" group-title="Jav HD Elite", HND-600 异地恋禁慾中女大学生和中年大叔的怀孕内射交尾 山本麻衣
+http://videocdn.dlyilian.com:8091/20190331/HN0UKIER600/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/GEQF1GHJY067.jpg" group-title="Jav HD Elite", HD GETS-067 好哥们的女友竟然没穿内衣！我不好意思勃起了！瞒着好哥们，与其做爱来一发！！有码高清
+http://videocdn.dlyilian.com:8091/20190331/GEQF1GHJY067/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/IP1QASG245.jpg" group-title="Jav HD Elite", IPX-245 内射癡女护士让我强制射精 西宫梦
+http://videocdn.dlyilian.com:8091/20190331/IP1QASG245/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HN7IOUS603.jpg" group-title="Jav HD Elite", HND-603 【我想在AV中尽情的说出我高潮了……】想尽情高潮的敏感女大学生AV出道 寺冈麻由里
+http://videocdn.dlyilian.com:8091/20190331/HN7IOUS603/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/FSE4YUIFW806.jpg" group-title="Jav HD Elite", FSET-806 完全没注意到胸口走光的女职员让我出手玩弄4
+http://videocdn.dlyilian.com:8091/20190331/FSE4YUIFW806/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/HM1DXV545.jpg" group-title="Jav HD Elite", HND-545 那一天大学聚会变成了内射轮姦俱乐部 高杉麻里
+http://videocdn.dlyilian.com:8091/20190331/HM1DXV545/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/EB8BRER662.jpg" group-title="Jav HD Elite", HD EBOD-662 全日本超有名模特身材超棒真实模特 身高167cm 8头身身体 在职模特AV出演紧密偷拍的31天里！内射视频禁！千里さん24岁有码高清
+http://videocdn.dlyilian.com:8091/20190331/EB8BRER662/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/DHY7JKP007.jpg" group-title="Jav HD Elite", DBDR-007 国民AV女优滨崎真绪潜入温泉旅馆！！一根接一根的搓着来研修的男员工又硬又大的老二 还在深夜大乱交享受充满精液的快感！
+http://videocdn.dlyilian.com:8091/20190331/DHY7JKP007/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/EB7IUKFG669.jpg" group-title="Jav HD Elite", EBOD-669 人类第一次出现的s曲线究极裸体好身材的女大学生来到G罩杯 E-BODY 乘骑体位，后入，正常体位等各种体位做爱最棒的女体
+http://videocdn.dlyilian.com:8091/20190331/EB7IUKFG669/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/DAQ1SDF445.jpg" group-title="Jav HD Elite", DASD-445 【请让我从上面看你】高身高美女用淫语服务的极品泡泡浴！熊宫由乃
+http://videocdn.dlyilian.com:8091/20190331/DAQ1SDF445/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AP5UKD086.jpg" group-title="Jav HD Elite", APKH-086 看似清纯学生妹是邻居的共用洩慾玩具 八寻麻衣
+http://videocdn.dlyilian.com:8091/20190331/AP5UKD086/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/DV9UKIFE343.jpg" group-title="Jav HD Elite", DVDMS-343 温柔的巨乳新教人师限定！修学旅行中，温柔的对处男学生进行榨精！
+http://videocdn.dlyilian.com:8091/20190331/DV9UKIFE343/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AT8IOJYR327.jpg" group-title="Jav HD Elite", ATID-327 办公室美女的湿丝袜 松下纱荣子
+http://videocdn.dlyilian.com:8091/20190331/AT8IOJYR327/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/DO4YUIF116.jpg" group-title="Jav HD Elite", DOCP-116 喜欢成熟美女内衣的恋物癖遇到慾求不满的美女，精液被美女榨干
+http://videocdn.dlyilian.com:8091/20190331/DO4YUIF116/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AM8ILGF027.jpg" group-title="Jav HD Elite", AMA-027 性爱天才 好色新人冲击性的试镜 不断玩弄自己的性癖来到play舞台的真正新人们的始末。 VOL.27
+http://videocdn.dlyilian.com:8091/20190331/AM8ILGF027/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/DO2QEVF111.jpg" group-title="Jav HD Elite", DOCP-111 【简直就是天使？！】因为骨折没有办法打飞机的我肉棒已经到极限了，这时候美女护士感觉到了使命感温柔的帮我…2
+http://videocdn.dlyilian.com:8091/20190331/DO2QEVF111/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AQEG7RLO316.jpg" group-title="Jav HD Elite", ATID-316 女社长，直到堕落… 久保今日子
+http://videocdn.dlyilian.com:8091/20190331/AQEG7RLO316/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/CL4YIDW529.jpg" group-title="Jav HD Elite", CLUB-529 G杯美女空姐 和喜欢做爱的我做爱是为了对前男友的复仇
+http://videocdn.dlyilian.com:8091/20190331/CL4YIDW529/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AB2RJU787.jpg" group-title="Jav HD Elite", ABP-787 可以插入？！传说中的沙龙 04AV界170cm身高的美身体尽情品尝！ 有原步美
+http://videocdn.dlyilian.com:8091/20190331/AB2RJU787/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/BF0HKMQ541.jpg" group-title="Jav HD Elite", BF-541 被绿 被部长和同事带绿帽的家庭聚会
+http://videocdn.dlyilian.com:8091/20190331/BF0HKMQ541/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AM4MDTRY029.jpg" group-title="Jav HD Elite", AMA-029 做爱的天才。超色素人冲击性初拍摄 因为自己的性癖来到摄影棚素人们的前后。 VOL.29
+http://videocdn.dlyilian.com:8091/20190331/AM4MDTRY029/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/BA4YUJNW164.jpg" group-title="Jav HD Elite", BAZX-164 制服性爱，裸腿诱惑，阴茎插进来无套内射在里面Vol.003
+http://videocdn.dlyilian.com:8091/20190331/BA4YUJNW164/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AP9PFWE100.jpg" group-title="Jav HD Elite", APNS-100 强制中出美女OL登山妹 黑川堇 明海幸
+http://videocdn.dlyilian.com:8091/20190331/AP9PFWE100/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/AP7UKFAS052.jpg" group-title="Jav HD Elite", HD APNS-052 堕落的受虐癖学生会长 星奈爱有码高清
+http://videocdn.dlyilian.com:8091/20190331/AP7UKFAS052/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/YR1THYUVC177.jpg" group-title="Jav HD Elite", YRH-177 某房产仲介宫泽小姐（24） 内衣製造厂的今井小姐
+http://videocdn.dlyilian.com:8091/20190301/YR1THYUVC177/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/ATI7IOJY329.jpg" group-title="Jav HD Elite", ATID-329 我今天就要强姦她。我憧憬的社长秘书2 柳美忧
+http://videocdn.dlyilian.com:8091/20190331/ATI7IOJY329/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/YQL5GRS169.jpg" group-title="Jav HD Elite", YRH-169 私立性交女子大学 和女大学生卡车约会立即做爱之旅 12
+http://videocdn.dlyilian.com:8091/20190301/YQL5GRS169/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/WKIB9RH463.jpg" group-title="Jav HD Elite", XRW-463 女学生处理性慾 苗条白虎美少女被捆绑内射做爱 中岛美加
+http://videocdn.dlyilian.com:8091/20190301/WKIB9RH463/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/VN1RHDJ5174.jpg" group-title="Jav HD Elite", VNDS-5174 被丈夫的部下盯上的寡妇 千堂玛莉亚
+http://videocdn.dlyilian.com:8091/20190301/VN1RHDJ5174/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/VN0MUTY3293.jpg" group-title="Jav HD Elite", VNDS-3293 猥亵上班族OL 和职场上工作的人妻约砲
+http://videocdn.dlyilian.com:8091/20190301/VN0MUTY3293/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SS9OPDE383.jpg" group-title="Jav HD Elite", SSNI-383 女大学生被强姦后居然主动渴求着做爱 羽咲美晴
+http://videocdn.dlyilian.com:8091/20190301/SS9OPDE383/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/TSLI5GFE405.jpg" group-title="Jav HD Elite", TSP-405 机场附近的秘密混浴露天温泉是附近空姐的秘密场所！在这里喝着小酒看着巨根2
+http://videocdn.dlyilian.com:8091/20190301/TSLI5GFE405/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SS1HTRD355.jpg" group-title="Jav HD Elite", SSNI-355 S1 15週年SP大共演 02 集体轮姦三位研习护士 坂道美琉 架乃由罗 小岛南
+http://videocdn.dlyilian.com:8091/20190301/SS1HTRD355/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://img2.minqingguancha.com:8099/2019-3/SD5UKC889.jpg" group-title="Jav HD Elite", SDMU-889 ASMR下流话医院24小时
+http://videocdn.dlyilian.com:8091/20190301/SD5UKC889/index.m3u8
 
 #EXTINF:-1group-title="Adult 18+"  ,ahlakid.com
 http://v2.14mp4.com:80/av-hls/20160713/m3/index.m3u8
@@ -2976,6 +2749,257 @@ https://video1.tizam.cc/films/Trouble-Scambio-di-co.mp4
 #EXTINF:-1group-title="Adult 18+"  ,В две дырки
 https://video1.tizam.cc/films/Private-Reality-18-Double.mp4
 
+#EXTINF:-1group-title="Adult 18+"  ,Лесбийские связи / Lesbian Hookups
+https://video1.tizam.cc/old_films/Lesbian-Hookups-2012.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Обконченные Мачехи Мамочки / MILF Creampied Stepmoms - 3rd Degree
+https://video1.tizam.cc/files/2505237/milf_creampied_stepmoms.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Я Няня Черного Мужчины / I Black Maled The Babysitter - 2018
+https://video1.tizam.cc/files/2505232/i_black_maled_the_babysitter.mp4
+#EXTINF:-1group-title="Adult 18+"  ,3rd Degree
+https://video1.tizam.cc/files/2501373/hairy_pies_2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Межрасовые Подруги 2 / Interracial Girlfriends 2 - Third Degree Films
+https://video1.tizam.cc/vk/InterracialGirlfriends2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Гигантские Члены В Азиатках 2 / Giant Dicks In Asian Chicks 2 - Third Degree Films
+https://video1.tizam.cc/vk/giantdicksinasianchicks2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Моя Жена Сутенер 4 / Pimp My Wife 4
+https://video1.tizam.cc/files/2483341/pimp_my_wife.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Моя Новая Мачеха / My New Stepmom
+https://video1.tizam.cc/files/2458224/my_new_stepmom.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Горячие Рассказы Жены / Hot Wife Stories
+https://video1.tizam.cc/files/2466097/hot_wife_stories.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Постоянные Заросли 4 / Daily Bush 4
+https://video1.tizam.cc/files/2472551/postoyannye_zarosli_4.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Молодые межрасовые лица / Young Interracial Facials (2017)
+https://video1.tizam.cc/files/2474793/young_interracial_facials.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Тело к Телу 5 / Body To Body 5 - Massage
+https://video1.tizam.cc/files/2474743/body_to_body_5.mp4
+#EXTINF:-1group-title="Adult 18+"  ,"Из Рук в Рот 6/Hand to mouth6"
+https://video2.tizam.cc/files/2188141/iz_ruk_v_rot_6_1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Оргия Обмен Женами / Wife Swap Orgy
+https://video1.tizam.cc/files/2445167/wife_swap_orgy.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Няньки от Первого Лица 2 / Babysitters POV 2
+https://video1.tizam.cc/files/2441332/babysitters_pov_2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Массаж Мамочек 3 / MILF Massage 3
+https://video1.tizam.cc/files/2440233/milf_massage_3.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Лесбийские Горничные 2 / Lesbian Maids 2
+https://video1.tizam.cc/files/2434282/lesbian_maids_2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Запретные Задницы 4 / Illegal Ass 4
+https://video2.tizam.cc/files/1510018/zapretnye_zadnitsy__4_1_cd.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Латинки Жаждущие Член / Cock Craving Latinas
+https://video2.tizam.cc/files/1460556/latinki_zhazhdushchie_chlen_1_cd.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Групповуха Мачехи / Stepmother Orgy
+https://video1.tizam.cc/vk/Stepmother-Orgy.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Anal Training Teens / Анальное Обучение Молодых Девушек
+https://video2.tizam.cc/files/2411929/anal_training_teens.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Женщины в нижнем белье / Laid In Lingerie
+https://video2.tizam.cc/files/1405982/laid_in_lingerie_1_cd.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Этот Член Слишком Большой Для Неё 9 / Too Small To Take It All 9
+https://video2.tizam.cc/files/2402959/slishkom_mala__chtoby_on_ves_vvoshel___too_small_to_take_it_all_9.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Все Для Тебя
+https://video2.tizam.cc/films/vse_dlya_tebya1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,часть 34
+https://video1.tizam.cc/films/trahnutye_dvumya_chlenami_chast_34-1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Полнейшее Удовольствие
+https://video1.tizam.cc/films/polnejshee_udovol_stvie1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Двойное проникновение 33
+https://video1.tizam.cc/films/dvojnoe_proniknovenie_33-1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Классическая Романтика
+https://video1.tizam.cc/films/klassicheskaya_romantika1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 19
+https://video1.tizam.cc/films/rasskazy_iz_dyrko_lenda_19-1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 32
+https://video1.tizam.cc/roliki/fantasstic-dp-32-1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Заигрывающие Чертовки: Больше Фут Фетиша 13
+https://video1.tizam.cc/films/bol_she_fut_fetisha_13-1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 17
+https://video1.tizam.cc/films/rasskazy_iz_dyrko_lenda_17.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Незабываемые свидании
+https://video1.tizam.cc/films/nezabyvaemye_svidanii.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Групповуха На Рождество
+https://video1.tizam.cc/old_films/XMasEvent.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Иди Ко Мне
+https://video2.tizam.cc/films/come-tu-mi.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 15
+https://video2.tizam.cc/films/Tales-From-Gapeland-15.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко-Ленда 14
+https://video1.tizam.cc/films/Tales-From%20Gapeland-14.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 25
+https://video1.tizam.cc/files/2558528/fantasstic_dp_25.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы Из Гепленда 05
+https://video1.tizam.cc/files/2552419/tales_from_gapeland_5.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы Из Гепленда 10
+https://video1.tizam.cc/files/2550248/tales_from_gapeland_10.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Заигрывающие Чики: Больше Фут Фетиша 9
+https://video1.tizam.cc/files/2550220/footsie_babes__more_foot_fetish_9.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 23
+https://video1.tizam.cc/files/2547475/fantasstic_dp_23.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рыжая бестия с упругой задницей
+https://video1.tizam.cc/new_films/ShelleysTightAssFucked.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 9
+https://video1.tizam.cc/files/2531856/tales_from_gapeland_9.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Вхождение 22
+https://video1.tizam.cc/files/2531042/fantasstic_dp_22.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Межрасовый Любовь
+https://video1.tizam.cc/files/2529568/interracial_love.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 8
+https://video1.tizam.cc/files/2524939/tales_from_gapeland_8.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Лучшие горячие сцены от 21 Sextury 5
+https://video1.tizam.cc/old_films/Bestof2SexturyVol5Rus.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 20
+https://video1.tizam.cc/files/2513711/fantasstic_dp_20.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Больше Фут Фетиша 4
+https://video1.tizam.cc/files/2503215/footsie_babes__more_foot_fetish_4.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 17
+https://video1.tizam.cc/files/2491991/fantasstic_dp__17.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Больше Фут Фетиша 7
+https://video1.tizam.cc/old_films/More-Foot-Fetish-7.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 6
+https://video1.tizam.cc/old_films/Tales-from-Gapeland-6.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастик ДП 19
+https://video1.tizam.cc/files/2507596/fantasstic_dp_19.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Затычка для девочек
+https://video1.tizam.cc/old_films/Gagging-Gals-2007.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Блондинки Любят В Анал
+https://video2.tizam.cc/files/2505216/blonde_anal_lovers.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Искусные Ножки 6
+https://video1.tizam.cc/files/2501367/foot_art_6.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Роскошные 4
+https://video1.tizam.cc/old_films/Luxurious4.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Фантастическое Двойное Проникновение 18
+https://video1.tizam.cc/files/2497910/fantasstic_dp_18.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Небольшой Кусочек Рая
+https://video2.tizam.cc/files/2494709/a_small_slice_of_heaven.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рассказы из Дырко Ленда 4
+https://video1.tizam.cc/files/2491755/tales_from_gapeland_4.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Больше Фут Фетиша 6
+https://video1.tizam.cc/files/2491732/more_foot_fetish_6.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Развратные крошки
+https://video1.tizam.cc/files/2492463/filthy_girls.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Горячая медсестра дала пациенту
+https://video1.tizam.cc/files/2489355/kendra_star___medsetsra_daet_v_zhopu.mp4
+#EXTINF:-1group-title="Adult 18+"  ,пока муж был на работе
+https://video2.tizam.cc/files/1182811/krasotke_prishlos_nelegko.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Красотку с загорелой задницей трахнули в анал
+https://video1.tizam.cc/files/2474459/v_tuguyu_popku.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Открытый Соблазн
+https://video2.tizam.cc/files/2462187/outdoor_temptations.mp4
+
+#EXTINF:-1group-title="Adult 18+"  ,Лучший Друг Навсегда
+https://video1.tizam.cc/old_films/BFFS.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Эпизод 2
+https://video1.tizam.cc/old_films/PornWarsEpisode2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Черный червь
+https://video1.tizam.cc/films/BlackWorm.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Секс во сне и наяву
+https://video2.tizam.cc/files/2214497/seks_vo_sne_i_nayavu___gedankenspiele__rn.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Звезда фильма секс при черной полосе
+https://video1.tizam.cc/films/MovieStar-chkm8te.mp4
+#EXTINF:-1group-title="Adult 18+"  ,К.K.K. История насилия в Америке
+https://video1.tizam.cc/old_films/TheStoryofViolenceinAmerica.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Юные Дебютантки для Рокко
+https://video2.tizam.cc/files/2395650/molodaya_shlyuha_rokki.mp4
+#EXTINF:-1group-title="Adult 18+"  ,В поисках мечты
+https://video1.tizam.cc/old_films/DreamQuest.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Преследующий
+https://video2.tizam.cc/files/1456459/stalker.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Кодовое Имя Мата Хари 2
+https://video2.tizam.cc/files/1619570/kodovoe_imya_mata_hari_2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Вся эта Бригада
+https://video1.tizam.cc/old_films/Uelleaime1995.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Лучшее от Дрю Берримор
+https://video1.tizam.cc/old_films/BestofDruBerrymore.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Выбор
+https://video1.tizam.cc/old_films/La-Scelta.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Спусти Трусики пропусти стаканчик
+https://video2.tizam.cc/files/1590863/spusti_trusiki.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Распутин: Оргии при царском дворе
+https://video2.tizam.cc/files/2156508/rasputin___orgien_am_zarenhof.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Падший
+https://video2.tizam.cc/files/2301950/padshiy__fallen_2008__s_russkim_perevodom.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Порношик 18: Алетта
+https://video2.tizam.cc/files/1529504/pornoshik_18___aletta.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Экстремальный разврат
+https://video1.tizam.cc/old_films/MaximumPerversum40Extrem%20Pervers.mp4
+#EXTINF:-1group-title="Adult 18+"  , Наказание
+https://video1.tizam.cc/old_films/Clausura.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Возмутительницы Спокойствия
+https://video1.tizam.cc/old_films/PrivateGold70SexRebels.mp4
+#EXTINF:-1group-title="Adult 18+"  ,В Живую 2
+https://video1.tizam.cc/old_films/Reality-2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Каждому мужчине по...
+https://video2.tizam.cc/files/2102006/fetish_kazhdogo_muzhchiny_1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Молодо-Зелено
+https://video1.tizam.cc/old_films/TeenFuckHoles2005.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рождественские случаи
+https://video1.tizam.cc/old_films/XMasEvent.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Девушки за 50
+https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Доктор Макс и очень грудастые малышки
+https://video2.tizam.cc/files/2121448/doktor_maks_i_ochen_grudastye_devushki__18_let.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Открытие Мисти Бетховен
+https://video2.tizam.cc/files/2156511/the_opening_of_misty_beethoven.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Секс на ферме
+https://video1.tizam.cc/films/PrivateMatador13.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Анна Полина Горничная ученица
+https://video2.tizam.cc/files/2395590/anna_apprentie_soubrette.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Остров Сокровищ
+https://video1.tizam.cc/old_films/SelentheGirlofTreasureIsland.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Горячие Ленты
+https://video1.tizam.cc/old_films/SexTapes.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Интрига и Удовольствие
+https://video2.tizam.cc/files/1954635/intrigue__and__pleasure.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Горячие поцелуи
+https://video2.tizam.cc/files/2102044/goryachie_potselui.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Кастинг Пьера Вудмана 27
+https://video1.tizam.cc/old_films/CastingsbaPierrWoodman27.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Ненасытные Сучки С Маленькими Сиськами
+https://video1.tizam.cc/old_films/BestByPrivate121SmallTittedSuperSluts.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Мир зрелых красоток
+https://video1.tizam.cc/old_films/Cougarland.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Смуглая Леди
+https://video2.tizam.cc/files/1507797/the_dark_lady__shpionka.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Тери Вайгель на обложке журнала
+https://video1.tizam.cc/old_films/Centerfold.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Джессика Императрица похоти
+https://video1.tizam.cc/vk/Jessica-imperatrice-du-plaisir.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рокко Сумасшедший Жеребец
+https://video2.tizam.cc/files/1962413/rocco_cavallo_pazzo_with_cd1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Рокко путь К Любви
+https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Нерон: Извращения Императора
+https://video2.tizam.cc/files/2102078/neron___izvrashcheniya_imperatora__1997.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Провокация
+https://video2.tizam.cc/files/2215886/pervyy_raz__provokatsiya____la_prima_volta__provocazioni.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Жизнь Райли
+https://video1.tizam.cc/old_films/LifeOfRiley.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Живой секс
+https://video1.tizam.cc/old_films/RealityDerReizerwischtzuwerden.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Сучки с престижными концами
+https://video1.tizam.cc/old_films/StraponSally10.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Первоклассные задницы
+https://video2.tizam.cc/files/2102101/pervoklassnye_zadnitsy_weltklasse_arsche.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Жопы мирового класса 2
+https://video2.tizam.cc/files/2102100/zhopy_mirovogo_klassa_2_weltklasse_arsche_2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Роскошные 2
+https://video1.tizam.cc/old_films/Luxurious2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Анальная свобода
+https://video1.tizam.cc/old_films/180AnalFreedom.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Роскошные 4
+https://video1.tizam.cc/old_films/Luxurious4.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Роскошные 5
+https://video1.tizam.cc/old_films/Luxurious5.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Кристина Роуз грязная девочка
+https://video2.tizam.cc/files/2185104/kristina_rouz_gryaznaya_devushka__18_let___1__s_perevodom.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Кристина Роуз Шлюшка
+https://video2.tizam.cc/files/2212826/kristina_rouz_shlyushka__1.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Гламурные сучки 2
+https://video1.tizam.cc/vk/GlamourGirls2.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Затычка для девочек
+https://video1.tizam.cc/old_films/Gagging-Gals-2007.mp4
+#EXTINF:-1group-title="Adult 18+"  ,Женщина Ягодка 40
+https://video1.tizam.cc/new_films/zhenwina_yagodka_40.mp4
+
+
 
 #EXTINF:-1 group-title="Adult 18+",NYX Media
 http://5a2a51fc4cfde.streamlock.net:1935/free/_definst_/Stream1/chunklist.m3u8
@@ -3046,7 +3070,5 @@ https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="Adult 18+",VISIT-X TV HD
 http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Adult 18+",Play boy Thailand
-http://61.19.242.134/feed/LC54/index.m3u8
 
-###[2020.12.23-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+###[2021.01.04-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
