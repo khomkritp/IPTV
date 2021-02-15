@@ -1,25 +1,21 @@
 #EXTM3U
 
 
-#===================================================================================================================================
+
+
+#::::::::::::::::::::::::::::::::::::::: Documentary :::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg",NATIONAL GEOGRAPHIC
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg",NATIONAL GEOGRAPHIC
-https://www.livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg",NATIONAL GEOGRAPHIC
 https://doofootball.livestream-cdn.com/iptv/hd-natgeo.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png", Nat Geo WILD
-https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://f.ptcdn.info/124/072/000/qm8zhfvr0YhLPUuhAAa-o.png", Discovery HD World
-https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 
 #EXTINF:-1 group-title="Documentary"tvg-logo="http://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png",DISCOVERY 
-https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/sd-discovery_720/index.m3u8
 
 
 
@@ -33,11 +29,7 @@ https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png",Animal Planet
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg",BBC earth
-https://www.livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg",BBC earth
 https://doofootball.livestream-cdn.com/iptv/sd-bbcearth.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.bbc.co.uk/staticarchive/a1f7c6fbd58bbe3f65841e104829723e51032580.jpg",BBC earth
@@ -45,9 +37,6 @@ http://160.119.77.116:8081/iptv/sd-bbcearth.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1024px-Outdoor_Channel.svg.png",The Outdoor
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.stoneroadmedia.com/wp-content/uploads/2019/01/Clients-logo-outdoor-america-705x236-705x236.png",Outdoor America
-https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://teevee-hd.com/img/outdoor.png" ,OUTDOOR(JP) 
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -65,9 +54,6 @@ http://160.119.77.116:8081/iptv/sd-explife.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F4c6e4330-9408-4280-8b5d-7d3b37305ce0.png&w=320&h=240" , True Explore Wild
 https://doofootball.livestream-cdn.com/iptv/sd-expwild.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2018%2F12%2F17%2F9cf5341f-b7c1-475e-8644-1ccb91f0ae2a.png&w=320&h=240", True Explore Life
-https://doofootball.livestream-cdn.com/iptv/sd-explife.stream/chunks.m3u8
-
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png" , True Explore Sci
 https://doofootball.livestream-cdn.com/iptv/sd-expsci.stream/chunks.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/76f8506f-b775-4a6f-ba79-752ecb8ee516.png" , True Explore Sci
@@ -82,7 +68,7 @@ https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 http://160.119.77.116:8081/iptv/hd-history.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+https://laos-tech-live.b-cdn.net/hd-history2_720/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-125352.jpg",H2 HISTORY
 http://160.119.77.116:8081/iptv/hd-history2.stream/playlist.m3u8
 
@@ -126,17 +112,20 @@ http://160.119.77.116:8081/iptv/uk-id.stream/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-samrujlok.jpg",Samrujlok HD
 https://cdn6.goprimetime.info/feed/LC8/index.m3u8
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-mysci.jpg",MYSCI HD
-https://www.livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-discoveryscience.jpg",Science Channel
-https://www.livedoomovies.com/02_DiscoveryScience/chunklist.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3K21CXuheswEkZr7r36NdXA6JAgcmf0L5yUYj=s176-c-k-c0x00ffffff-no-rj-mo",Charoen Cable TV
 https://cdn6.goprimetime.info/feed/LC32/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnivur5q5QHzdiNLKYZOxXKKIeWe30X2_yEP10BN=s176-c-k-c0x00ffffff-no-rj-mo",WBTV
 https://cdn6.goprimetime.info/feed/LC37/index.m3u8
+
+
+
+
+
+#:::::::::::::::::::::::::::::::::::::: Movie  ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 
 
@@ -167,8 +156,7 @@ https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO​
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
@@ -220,7 +208,7 @@ http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
-https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8  
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8 
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
@@ -232,6 +220,8 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/pXM9pyqH/axn.jpg",AXN (true visions)
 https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/pXM9pyqH/axn.jpg",AXN
+http://136.243.177.164/AXN/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
 https://cdn6.goprimetime.info/feed/LC1/index.m3u8 
@@ -272,14 +262,15 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfZgc8zGQD1O3B3lVAiWYIMzHU89GCC6u4ZXL48Fm7Jho61-4i&usqp=CAU",Hi Yah!(หนังจีน)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVTbCqM7Prwk_78ftbLR5PuIezLhD9pFizDDwnO1UCLVQe6_5j&usqp=CAU",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSman15dlwm45o0ZqwCPJ0FSjJ-G9t5W2AgD6hNZ1EdIkxlx4ZR&usqp=CAU",Screamfest
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png",American Horrors
 http://170.178.189.66:1935/live/Stream1/chunklist_w1292014337.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",Warner TV
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
 http://203.154.177.124:8899/live/ch12/playlist.m3u8
@@ -292,9 +283,6 @@ https://cdn6.goprimetime.info/feed/LC41/index.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zee หนัง
 https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
-
-#EXTINF:-1 group-title="Movie"tvg-logo="https://image.roku.com/developer_channels/prod/2ece48481d5191baae1d3dc550fe6c99ed59f7f87d90c096ab4ab8a9021efb89.png",FilmRise Sci-Fi
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://www.digitaltveurope.com/files/2019/10/cilogo_500px.png",Crime+ Investigation
 http://203.154.177.124:8899/live/ch23/playlist.m3u8
@@ -317,8 +305,7 @@ http://160.119.77.116:8081/iptv/hd-tvn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704505.jpeg",OX Family Movies
 https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",Warner TV
-http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/kbs-world-hd.png,KBS World HD
@@ -336,21 +323,24 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704689.jpeg",Hits
-https://www.livedoomovie.com/02_HITS_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704685.jpeg",HITS Movies
-https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
 
-#==============================================================================================================================
+
+
+
+
+#:::::::::::::::::::::::::::::::::::::: News ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-063130.jpg",CNN
 http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB)
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB)
 http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg",BBC World News (GB)
@@ -362,11 +352,6 @@ https://doofootball.livestream-cdn.com/iptv/uk-bbc1hd.stream/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh1Tlwh4RPuBbtW2wPhDzO91hAkkIoVh6FJ8mt7ow=s176-c-k-c0x00ffffff-no-rj-mo", 779. Phoenix InfoNews
 http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="News" tvg-logo="http://static.epg.best/us/FoxNews.us.png",FOX News
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
@@ -401,11 +386,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://apprecs.org/ios/images/app-icons/256/c0/922460096.jpg",CGTN  
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK WORLD(JP-KR)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",NHK Chinese
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -461,8 +441,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="http://cms.dmpcdn.com/livetv/2017/10/17/a6b13167-4067-4797-a04f-7e90c525b0c8.png",DW News
 https://cdn6.goprimetime.info/feed/LC12/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png",RT UK (RU)
-https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TeleSUR (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
@@ -491,7 +469,8 @@ http://203.154.177.124:8899/live/ch8/playlist.m3u8
 
 
 
-#====================      Digital TV   =====================#
+
+#:::::::::::::::::::::::::::::::::::: Digital TV ::::::::::::::::::::::::::::::::::::::::::
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073043.jpg",CH3
 https://cdn6.goprimetime.info/feed/ch3hd/index.m3u8
@@ -528,56 +507,58 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074238.jpg",Thairath
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg",TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 https://cdn6.goprimetime.info/feed/chpptvhd/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
-http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
+https://cdn6.goprimetime.info/feed/chnation/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
+http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 https://cdn6.goprimetime.info/feed/chamarin/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
-https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
-http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
+https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
+https://edge6a.v2h-cdn.com/m2i1/NEW.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
+https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
 https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
-
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
-https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
-http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
 https://cdn6.goprimetime.info/feed/ch8/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
 https://doofootball.livestream-cdn.com/iptv/hd-ch8.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
-https://doofootball.livestream-cdn.com/iptv/sd-tnn24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
+https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074623.jpg",GMM
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
+https://cdn6.goprimetime.info/feed/chonehd/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073106.jpg",ONE
+http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
+https://cdn6.goprimetime.info/feed/chworkpoint/index.m3u8
+#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://cdn6.goprimetime.info/feed/chmono29/index.m3u8
@@ -629,13 +610,15 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 
 
-#==================== Sports   =====================#
+#::::::::::::::::::::::::::::::::: Sports  :::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 
@@ -646,7 +629,6 @@ https://doofootball.livestream-cdn.com/iptv/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3
 http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3
@@ -654,12 +636,10 @@ http://160.119.77.116:8081/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075415.jpg",Premier HD3
 http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
 http://160.119.77.116:8081/iptv/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075435.jpg",Premier HD4
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075457.jpg",Premier HD5
 http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
@@ -667,17 +647,12 @@ http://160.119.77.116:8081/iptv/epl-5.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
 
-
-
-#==================================================================================================
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2
 http://160.119.77.116:8081/iptv/hd-tsport2.stream/playlist.m3u8
@@ -699,12 +674,9 @@ http://160.119.77.116:8081/iptv/hd-tsport4.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-tsport4.stream/playlist.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Sports"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-28-013501.jpg",true Sport 1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-032339.png",true Sport 2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-032339.png",true Sport 2
 http://160.119.77.116:8081/iptv/sd-tsport2.stream/playlist.m3u8
 
@@ -717,17 +689,11 @@ http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",true Sport 5
 https://doofootball.livestream-cdn.com/iptv/sd-tsport5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport5.png",true Sport 5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport6.png",true Sport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",true Sport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-tsport7.png",true Sport 7
 http://160.119.77.116:8081/iptv/sd-tsport7.stream/playlist.m3u8
 
-#============================================================================================================================
 
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703682.jpeg",FOX​ Sports​ HD
@@ -758,19 +724,15 @@ http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR30y2o4Ilv5g16S5nBOC_FeWZrVFjjjSNVzIF9YZPknpQSy3Qx&usqp=CAU",Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-
-#============================================================================================================================
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",Eurosport 1
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-07-051537.jpg",Eurosport 1
 https://doofootball.livestream-cdn.com/iptv/uk-eurosport.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",Eurosport 2
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 
-#============================================================================================================================
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-07-051552.jpg",Eurosport 2
+https://laos-tech-live.b-cdn.net/uk-eurosport2_480/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-13-074940.jpg",Astro Supersport 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
@@ -781,7 +743,6 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-22-081330.jpg",Astro Supersport 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-#============================================================================================================================
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_ogiX67s7-ngXWADPdP7Oo3k7uQiHHG6V5A&usqp=CAU", BT​ SPORT​S​1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
@@ -833,20 +794,22 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/A4GMBN6.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-REM #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tennispanorama.com/wp-content/uploads/2012/01/ATP-Logo.png",ATP tennis
-http://203.154.243.89:11739/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png",Tennis channal+
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png",Tennis channal+
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
 http://160.119.77.116:8081/iptv/hd-tennis.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
 http://103.208.24.234:1935/thaisport/hd-tennis.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
+https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/motorvision-tv.png",Motor Vision
 #https://streaming.livescorethai.net/iptv/hd-motorvision.stream/chunks.m3u8
@@ -856,8 +819,7 @@ http://160.119.77.116:8081/iptv/hd-motorvision.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075606.jpg",Golf channel
 http://103.208.24.234:1935/thaisport/hd-golf.stream/chunklist.m3u8
-https:#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075606.jpg",Golf channel
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+
 
 
 
@@ -866,18 +828,11 @@ http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png",ONEGOLF
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
-https://doofootball.livestream-cdn.com/iptv/hd-tennis.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075654.jpg",True Tennis
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-REM #EXTINF:-1 group-title="Sports" tvg-logo="http://www.solarentertainmentcorp.com/solar_uploads/show_banners/World_of_Freesports_-_Logo.jpg",World Of Free sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD
 https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+http://103.208.24.234:1935/thaisport/hd-nba.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-11-030611.jpg",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
@@ -912,8 +867,9 @@ https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m
 #EXTINF:-1 group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-040944.jpg",SKY SPORTS GOLF
 https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",Rtm sorts hd
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-011240.jpg",Trace Sport Stars
+http://203.154.177.124:8899/live/ch10/playlist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-011240.jpg",Trace Sport Stars
 http://203.154.177.124:8899/live/ch10/playlist.m3u8
@@ -932,16 +888,14 @@ http://61.19.242.134/feed/LC36/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fight-sports.png", FIGHT SPORTS
 http://203.154.177.124:8899/live/ch22/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni3CnuXpQxMg3ELPGhjpxKE_D3Fe8Fq0VHm3I_u=s176-c-k-c0x00ffffff-no-rj-mo", TRACE Sport Stars
-http://203.154.177.124:8899/live/ch10/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/outdoor-channel-poster1602705824.jpeg",Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
-#==============================================================================================
 
 
+
+#::::::::::::::::::::::::::::::::::: Variety :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
@@ -949,15 +903,11 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png",Sabaidee TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062235.jpg",CAT HD
-https://cdn6.goprimetime.info/feed/CAT/index.m3u8
-
 #EXTINF:-1 group-title="Variety" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",VoiceTV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.doofree88.com/storage/live/tvAqYVZqJtDoNIcY0Hn26PPjwgYEXpQwQVJoaFwd.png",News 1
 https://server1.streamssl.com/stream/news1_hi.m3u8
 
@@ -973,17 +923,12 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 group-title="Variety"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062000.jpg",PULSE
 https://cdn6.goprimetime.info/feed/LC6/index.m3u8
 
+
 #EXTINF:-1 group-title="Variety" tvg-logo="https://teevee-hd.com/img/voicetv.png",Voice TV
 https://edge6a.v2h-cdn.com//appt3//WOWSH.stream_720p//chunklist_w142679599.m3u8
 
-#EXTINF:-1 group-title="Variety" tvg-logo="https://i.imgur.com/dauuWLp.png",Smart SME Channel
-https://ssme-zujawl.cdn.byteark.com/live/playlist_720p/index.m3u8
-
 #EXTINF:-1 group-title="Variety" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTHTFdM-gTKLcwz6ERj6zlAGrHNr3cwEBhxwRq-xbMFt-lwgUz8&usqp=CAU",Yateem TV (New!)
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Variety"tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/18/57e474db-0dce-4fdc-93d8-bc2b57d3a685.png",สุวรรณภูมิ TV 
-http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
 
 #EXTINF:-1 group-title="Variety"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
@@ -1012,14 +957,6 @@ http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.comedy.co.uk/images/channels/bbc_scotland.jpg",BBC Scotland
 http://51.52.156.22:8888/http/001
 
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014037.jpg",ID Fashion HD (UA)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014455.jpg",FASHION TV MIDNITE
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014455.jpg",Fashion Show
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014455.jpg",Fashion_tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
@@ -1033,23 +970,14 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-014708.jpg",JASMIN TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024912.jpg",World Fashion Channel (RU)
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-024948.jpg",ID Fashion HD (UA)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025052.jpg",FASHION TV MIDNITE
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",MODEL
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="",Fashion Show
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",Fashion_tv
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="",F.tv
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
@@ -1062,9 +990,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 #EXTINF:-1 group-title="Variety" tvg-logo="https://www.myproduksiyon.com/wp-content/uploads/Russian_Travel_Guide_TV.png",รัสเซีย Travel Guide tv
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 
-#EXTINF:-1 group-title="Variety" tvg-logo="https://trailingthehuntersmoon.com/wp-content/uploads/2020/03/pursuit-up-logo.png",PursuitUP
-https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="Variety" tvg-logo="https://guidelinestv.com/wp-content/uploads/2019/05/waypointPNG.png",Way Point
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
 
@@ -1076,6 +1001,11 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 
 
+
+
+
+
+#::::::::::::::::::::::::::::::::::::::: Entertainment :::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
@@ -1134,25 +1064,22 @@ http://51.52.156.22:8888/http/006
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://time4tv.stream/images/itv4-live-stream.jpg",ITV 4
 http://51.52.156.22:8888/http/007
 
-
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU",ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ3HmX5oTHY_qUhSLPIm1wqEJuXfHYbR6ZnZg&usqp=CAU",Topline
 https://edge6a.v2h-cdn.com/m2i7/Topline.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://uway.bear-tv.com/private/src/Main/ThirdParty/UploadsX/2c8p25mf4su80gkoo4.png",MTV LIVE
-http://ip2121.com:8081/1394/mtv/chunks.m3u8
 
 
 
 
 
 
-#====================================================================================================================================
 
 
+
+#:::::::::::::::::::::::::::::::::: Kids ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
@@ -1163,20 +1090,11 @@ https://livecdn.fptplay.net/qnetlive/boomerang_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kid" tvg-logo="https://i.pinimg.com/originals/92/94/fd/9294fdc36f0bbb5b88f2b150981e341f.png",Boomerang
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_360p/playlist.m3u8
 
-#EXTINF:-1 group-title="Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Cartoon-Network-HD-cover.jpg",Cartoon Network HD
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-
 #EXTINF:-1, group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
 
 #EXTINF:-1,group-title="Kid" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif",Cartoon Club HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-022523.jpg",DISNEY XD
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-023518.jpg",DISNEY CHANNEL
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Kid" tvg-logo="https://www.we-play.tv//uploads/posters/true-spark-jump-poster1602706225.jpeg", True Spark Jump
 http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
@@ -1190,18 +1108,6 @@ https://edge6a.v2h-cdn.com/m2i7/Toonee.stream_360p/playlist.m3u8
 #EXTINF:-1,group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",Animax
 http://203.154.177.124:8899/live/ch5/playlist.m3u8
 
-#EXTINF:-1,group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051525.jpg",Animax
-https://vcdnjt.useetv.com/dass/14/animax/chunklist_w1214507886_b684100_sleng.m3u8
-
-#EXTINF:-1 group-title="Kid" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/800px-Animax.png",Animax JP
-http://193.42.99.130:23455/3720/playlist.m3u8
-
-#EXTINF:-1,group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051703.jpg",Aniplus
-https://vcdnjt.useetv.com/dass/14/aniplus/chunklist_w2036078111_b684100_sleng.m3u8
-
-#EXTINF:-1,group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-12-051810.jpg",BBC 3 
-https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/index.m3u8
-
 #EXTINF:-1 group-title="Kid" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070534.jpg",Kuriakos kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 
@@ -1213,7 +1119,11 @@ https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
 
 
 
-#====================================================================================================================================
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 
 
 
@@ -1394,7 +1304,8 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 
 
 
-#=================================================== Radio ========================================================================
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 
 
@@ -1704,7 +1615,14 @@ http://radio1.comgig.com:4096/;stream.m4a
 
 
 
-#===================================================  Movies ===============================================
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="MOVIE VOD" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-03-064652.jpg",Tenet เทเน็ท (2020)
@@ -1954,134 +1872,11 @@ https://glus-st.mthcdn.com/stream/video02/2018/01/01/1514779517/1514779517_720.m
 https://glus-st.mthcdn.com/stream/video02/2017/12/16/1513441554/1513441554_480.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Captain America 3 : Civil War (2016) กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/26-4-2020/Captain%20America%20Civil%20War%20%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Terminator คนเหล็ก 2029 ภาค1 (1984)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/The%20Terminator%20(1984)%20%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%202029%20%E0%B8%A0%E0%B8%B2%E0%B8%84%201%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%9F%E0%B8%A3%E0%B8%B5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Terminator 2 Judgment Day คนเหล็ก2029 (1991) ภาค 2
-https://cdn.chavalit.is/vod/disk3/movies/ttmnt2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Terminator 3- Rise of the Machines (2003)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Terminator%203-%20Rise%20of%20the%20Machines%20(2003)%20%E0%B8%85%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%203%20%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Terminator Salvation (2009) คนเหล็ก 4
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%20Terminator%20Salvation%20(2009)%20%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%204%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20V8Movie%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20HD%20%E0%B8%9F%E0%B8%A3%E0%B8%B5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Terminator Genisys (2015) ภาค5
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Terminator%205-%20Genisys%20(2015)%20%E0%B8%85%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%205%20-%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%A2%E0%B8%B6%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Terminator: Dark Fate (2019) ภาค6
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Terminator%20Dark%20Fate-1080p.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,ตำนานอสูรล่าวิญญาณ Legend of the Demon Cat
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/UFOIPTV_9.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Legend of the Ancient Sword (2018)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/UFOIPTV_7.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Ashfall นรกล้างเมือง (2019)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%20Ashfall%20(2019)%20%E0%B8%99%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20V8Movie%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20HD%20%E0%B8%9F%E0%B8%A3%E0%B8%B5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,SPIDER MAN (2002) ไอ้แมงมุม สไปเดอร์แมน
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/27-4-2020/Spider%20Man%202%20(2004)%20%E0%B9%84%E0%B8%AD%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%20%E0%B8%AA%E0%B9%84%E0%B8%9B%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%A1%E0%B8%99%202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Hunt (2020) ล่า เพื่อ รอด
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/The%20Hunt%20(2020)%20%E0%B8%A5%E0%B9%88%E0%B8%B2%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%20%E0%B8%A3%E0%B8%AD%E0%B8%94%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Feel the Beat ขาแดนซ์วัยใส (2020)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Feel%20the%20Beat%20-%20Netflix%20(2020)%20%E0%B8%82%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%8B%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B9%83%E0%B8%AA%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Captain America 3 : Civil War (2016) กัปตัน อเมริกา 3 ศึกฮีโร่ระห่ำโลก
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/26-4-2020/Captain%20America%20Civil%20War%20%E0%B8%81%E0%B8%B1%E0%B8%9B%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B9%80%E0%B8%A1%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Guardians of the Galaxy 1 : (2014) รวมพันธุ์นักสู้พิทักษ์จักรวาล 1
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/26-4-2020/Guardians%20of%20the%20Galaxy%20%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%89%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%A7%E0%B8%B2%E0%B8%A5%20(2014).mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Extraction (2020) คนระห่ำภารกิจเดือด
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%20Extraction%20(2020)%20%E0%B8%84%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B9%88%E0%B8%B3%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20V8Movie%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20HD%20%E0%B8%9F%E0%B8%A3%E0%B8%B5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Proximity พร็อกซิมิตี้ (2020
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Proximity%20(2020)%20%E0%B8%9E%E0%B8%A3%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B5%E0%B9%89%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Doctor Strange (2016) ด็อกเตอร์ สเตรนจ์
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/27-4-2020/Doctor%20Strange%20(2016)%20%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%20%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%88%E0%B9%8C.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Valerian and the City of a Thousand Planets (2017) วาเลเรียน
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/28-4-2020/Valerian%20and%20the%20City%20of%20a%20Thousand%20Planets%20(2017)%20%E0%B8%A7%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Mortal (2020) ปริศนาพลังเหนือมนุษย์
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Mortal%20(2020)%20%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,แบล็ค แพนเธอร์ Black Panther (2018)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/27-4-2020/%E0%B9%81%E0%B8%9A%E0%B8%A5%E0%B9%87%E0%B8%84%20%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B9%80%E0%B8%98%E0%B8%AD%E0%B8%A3%E0%B9%8C%20Black%20Panther%20(2018).mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Maze Runner 2 : The Scorch Trials (2015)
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Maze%20Runner%202-%20The%20Scorch%20Trials%20(2015)%20%E0%B8%AA%E0%B8%A1%E0%B8%A3%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%AB%E0%B8%A1%E0%B9%89%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Jack the Giant Slayer (2013) แจ็คผู้สยบยักษ์
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Jack%20the%20Giant%20Slayer%20(2013)%20%E0%B9%81%E0%B8%88%E0%B9%87%E0%B8%84%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%A2%E0%B8%9A%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Brightburn (2019) เด็กพลังอสูร
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Brightburn%20(2019)%20%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Invisible Man (2020) มนุษย์ล่องหน
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%20The%20Invisible%20Man%20(2020)%20%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20V8Movie%20%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%20HD%20%E0%B8%9F%E0%B8%A3%E0%B8%B5.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Code 8 (2020) ล่าคนโคตรพลัง
-https://filedn.com/lQDs8oKAM4luOFHG7BtiCNh/HD-MOVIE/Movie/Kaew/Code%208%20(2020)%20%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%20-%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%20%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%202020%20037HD.mp4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Contagion (2011) สัมผัสล้างโลก
-https://cdn.badroids.is/vod/disk3/movies/8vocta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Bloodshot (2020) จักรกลเลือดดุ
-https://cdn.badroids.is/vod/disk3/movies/boodshs.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Code 8 (2019) ล่าคนโคตรพลัง
-https://cdn.badroids.is/vod/disk3/movies/ccode8.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Closet (2020) ตู้นรกไม่ได้ผุดไม่ได้เกิด
-https://cdn.badroids.is/vod/disk3/movies/touceu.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,What’s Eating Gilbert Grape รักแท้เลือกไม่ได้ (1993)
-https://nungth.b-cdn.net/vod/eeefgp.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Class of 83 นักฆ่านอกเครื่องแบบ (2020)
-https://nungth.b-cdn.net/vod/cclss83.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Chemical Hearts (2020) เพราะเราเคมีตรงกัน
-https://nungth.b-cdn.net/vod/chhemq.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Sleepover เดอะ สลีปโอเวอร์ (2020)
-https://nungth.b-cdn.net/vod/slpotpv.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Tesla (2020) เทสลา คนล่าอนาคต
-https://nungth.b-cdn.net/vod/lasssr.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Superman Man of Tomorrow ซูเปอร์แมน บุรุษเหล็กแห่งอนาคต (2020)
-https://nungth.b-cdn.net/vod/sttmzu.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Attack of the Unknown (2020)
-https://nungth.b-cdn.net/vod/uatckoq.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,All Together Now ความหวังหลังรถโรงเรียน (2020)
-https://nungth.b-cdn.net/vod/atleno.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Willoughbys วิลโลบี้ สี่พี่น้องผจญภัย(2020)
-https://cdn.badroids.is/vod/disk4/thewgb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Boys in the Band ความหลังเพื่อนเกย์(2020)
-https://nungth.b-cdn.net/vod/tbooue.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Blade of Wind (2020) ดาบตัด วายุ
-https://nungth.b-cdn.net/vod/tblaowf.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Babysitter: Killer Queen เดอะ เบบี้ซิตเตอร์ ฆาตกรตัวแม่
-https://nungth.b-cdn.net/vod/bbqllc.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Barbie Princess Adventure (2020) บาร์บี้ ภารกิจลับฉบับเจ้าหญิง
-https://nungth.b-cdn.net/vod/bpiepa.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Dad Wanted (2020) หาพ่อมาต่อฝัน
-https://nungth.b-cdn.net/vod/suyvbe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,I’m Thinking of Ending Things อยากให้เธออยู่ดูตอนจบด้วยกัน
-https://nungth.b-cdn.net/vod/iteoft.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Cats & Dogs 3: Paws Unite สงครามพยัคฆ์ร้ายขนปุย 3 (2020)
-https://nungth.b-cdn.net/vod/cdd3uu.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Paramedic (2020) ฆ่าให้สมแค้น
-https://nungth.b-cdn.net/vod/prmdte.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,GIMS: On the Record กิมส์ บันทึกดนตรี (2020
-https://nungth.b-cdn.net/vod/gimsrr.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Dolly Kitty and Those Twinkling Stars ดอลลี่ คิตตี้ กับดาวสุกสว่าง (2020)
-https://nungth.b-cdn.net/vod/toldste.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Bucin (2020) เปลี่ยนลายนายหงอ
-https://nungth.b-cdn.net/vod/buciddd.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Devil All The Time ศรัทธาคนบาป (2020)
-https://nungth.b-cdn.net/vod/tdatti.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Enola Holmes (2020) เอโนลา โฮล์มส์
-https://nungth.b-cdn.net/vod/eblhom.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Love, Guaranteed (2020) รัก… รับประกัน
-https://nungth.b-cdn.net/vod/gwantl.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Furies (2019)
-https://nungth.b-cdn.net/vod/tufilr.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Romancing the Stone (1984) ล่ามรกตมหาภัย
-https://nungth.b-cdn.net/vod/rrmsole.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Mayday Life (2019) คอนเสิร์ตปลุกชีวิต
-https://nungth.b-cdn.net/vod/odmsyy.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,An Oversized Woman (2020) หนังเกาหลี R
-https://cdn.badroids.is/vod/disk4/anovwse.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,The Social Dilemma (2020) ทุนนิยมสอดแนม – ภัยแฝงเครือข่ายอัจฉริยะ
-https://nungth.b-cdn.net/vod/dosmaa.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,My Octopus Teacher บทเรียนจากปลาหมึก (2020)
-https://nungth.b-cdn.net/vod/otucpo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Double Faced Fox จิ้งจอกสองหน้า (2020)
-https://nungth.b-cdn.net/vod/dbofxh.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIE VOD" ,Sky Tour: The Movie สกายทัวร์ เดอะ มูฟวี่ (2020)
-https://nungth.b-cdn.net/vod/sktmou.mp4
 
 
 
-#===================================================================================================================
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
@@ -2089,7 +1884,449 @@ https://nungth.b-cdn.net/vod/sktmou.mp4
 
 
 
-#==========================================================================================================
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040453.jpg",Live4K: EarthCam Live: Times Square in 4K
+https://youtu.be/mRe-514tGMg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Concert : Iron Maiden 2019 Live Full Concert HD 4K
+https://youtu.be/6KdN6_4a8IY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Concert : Ed Sheeran - Moscow 2019 LIVE! Full concert in 4K
+https://youtu.be/4VUoCFc_2Uo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Music : Love & Blues | Rock Music 2019 HiFi (4K)
+https://youtu.be/0zR_5Ape7Bo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Movie : Crated (2020) | Full Movie [4K Ultra HD]
+https://youtu.be/BD_pjm7xvgg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Movie : Biosphere Continuum FULL MOVIE - Extended Version.
+https://youtu.be/4OSB0MCAtbE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.Movie : Injustice 2 (PC) - 4K - Full Movie - Cinematics/Complete Story (2160p)
+https://youtu.be/e5XyRNxl21c
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-23-040406.jpg",4K.View :7 HOUR 4K DRONE FILM: "Earth from Above" + Music by Nature Relaxation™ (Ambient AppleTV Style)
+https://youtu.be/lM02vNMRRB0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:CNA 24/7 LIVE-Breaking news
+https://youtu.be/XWq5kBlakcQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:Al Jazeera English
+https://youtu.be/EOBY5J0b9Uo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:Watch Sky News live
+https://youtu.be/9Auq9mYxFEE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:DW News Livestream
+https://youtu.be/NvqKZHpKs-g
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:ABC News Live
+https://youtu.be/w_Ma8oQLmSM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",News:NBC2 Live Stream
+https://youtu.be/tPeUHECNLKs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",NASA Live: Official Stream of NASA TV
+https://youtu.be/21X5lGlDOfg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",Sports:SiamSport
+https://youtu.be/QPCTDlAsAgM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",Sports:Garena ROV Thailand
+https://youtu.be/h7BAiQdF0Lw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[สตริงเก่า/ใหม่ ฟังต่อเนื่อง]
+https://youtu.be/1acPAyogML0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[สถานีเพลงใหม่ล่าสุด]
+https://youtu.be/EIwIWAMqt1o
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:เพลงเพราะ ออนไลน์ 24 ชั่วโมง [ เพลงใหม่ ] ฟังต่อเนื่องชิวๆ 2020
+https://youtu.be/QtnHheKchbQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:รวมเพลงเพราะๆใหม่ล่าสุด 
+https://youtu.be/m7aA0L4-CiA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:Beach Radio ฟังง่าย สบายทั้งวัน
+https://youtu.be/AsIcGaP7jEs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[เพลงเพราะๆ ชิลๆ 24 ชั่วโมง]
+https://youtu.be/6AmOjIHjNR0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[เพลงเพราะๆ​ โดนใจวัยรุ่น]
+https://youtu.be/EFvrx2Z1aVw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[สถานีเพลงลูกทุ่ง เพราะๆ]
+https://youtu.be/DJp-_kLItQQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[ฟังเพลงออนไลน์ ลูกทุ่งอินดี้]
+https://youtu.be/h9E8bFiBB_E
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://qiigo.com/wp-content/uploads/2016/07/Youtube-live-streaming.png",LIVE:[เพลงฮิต เพลงใหม่]
+https://youtu.be/1-xR-9I2cjc
+
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.Mulan2020(มู่หลาน)พากย์ไทย
+https://youtu.be/kMVj0ieeNU0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.นักรบสั่งตาย
+https://youtu.be/ZAPxhrqlcLs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.วิ่งสู้ฟัด6(Police Story 6)
+https://youtu.be/UUrDl4EJuAk
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",T.ปิดป่าหลอน WHO
+https://youtu.be/aQJPThEWrmM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",E.อภิมหาขุนศึกกู้แผ่นดิน
+https://youtu.be/ophesRcn4-Q
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",Zombiology อย่าให้ผีมากัด
+https://youtu.be/H9oqzJMp_eQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",E.ยอดสายลับพันธ์สังหาร
+https://youtu.be/SJREmKk7coo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",E.ศึกพิภพแม่มดมหัศจรรย์ แนวเทพนิยาย
+https://youtu.be/Cxz5z79QcFk
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",T.จอมขมังเวทย์ 2020 NETFLIX พากย์ไทย
+https://youtu.be/wbrvKMdgl4k
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",T.๙ ศาสตรา
+https://youtu.be/4ms_WqkMRy0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",T.ชายา - Cha Ya
+https://youtu.be/acJXexipoaM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.หว่องเฟ่ฮุง กังฟู ดอนนี่ เยน
+https://youtu.be/8WODTSYkMLQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.ตรี่เหรินเจิ๋ยภาคใหม่ล่าสุด(พากย์ไทย)
+https://youtu.be/s3VFMbkbFYg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.ขี่พายุดาบเทวดา
+https://youtu.be/V6RyKMAz61M
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.โคตรเซียน 2020
+https://youtu.be/xxSS4X21eIY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",C.ทะลุมิติ
+https://youtu.be/i3HtAx41VLA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",E.สงครามเอเลี่ยน
+https://youtu.be/e2XrXtM429Q
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://wealthmagnate.com/wp-content/uploads/2014/09/YouTube-video-marketing.jpg",E.47 โรนิน มหาศึกซามูไร
+https://youtu.be/xaqgC4yAuCM
+
+
+
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลง Acoustic Cover เพลงฮิตติดหู
+https://youtu.be/1EFrgUa4C0M
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ ฟังชิวๆ
+https://youtu.be/kzOizOQzsFs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลง ร้านกาแฟ เพราะๆ ชิวๆ
+https://youtu.be/3FjRi22vK3w
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงฮิตร้อยล้านวิว
+https://youtu.be/B7KHIgCMCVw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงลูกทุ่งอินดี้ "ล้านวิว"
+https://youtu.be/fnMh_9zFDHA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงใหม่ล่าสุด【 รวมเพลงเพราะๆ ฟังสบายๆ ชิวๆ 】
+https://youtu.be/8j_taAyeiQ0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมนักร้องวิวล้าน-I Can See Your Voice
+https://youtu.be/2k65GtVmmos
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงฮิต 100 ล้านวิว ชุดที่ 1
+https://youtu.be/x-Sl0cAek7A
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงลูกทุ่ง 100 ล้านวิว 
+https://youtu.be/WeDOBIOH3c4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะ ๆ 2019 2020 (300 ล้านวิว)
+https://youtu.be/gU7tm6flL20
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงฮิตร้อยล้านวิว【LONGPLAY】
+https://youtu.be/ABTlsd7mNFA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงใหม่ล่าสุด 2020 (เพลงลูกทุ่งใหม่มาแรง)
+https://youtu.be/SNN0fzJSiWw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงใหม่ล่าสุด 【 เพลงเพราะๆ ฟังสบายๆ 
+https://youtu.be/EpcwNPoTdTs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงฮิต เพลงใหม่ล่าสุด 2020
+https://youtu.be/jtTPcwazKlc
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",ฟังเพลงก่อนนอน ไม่มีโฆษณา สบายๆ
+https://youtu.be/eA05SM9ZrVA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงฮิตเพราะๆ เปิดบ่อย ดีต่อใจ
+https://youtu.be/BANWwmd5sVM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะ ๆ ร้านเหล้า
+https://youtu.be/xgyxODgn2jo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงร้านเหล้าชิวๆ.. มาแรง 
+https://youtu.be/ipvt6poXoMQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวม 25 เพลงเจ็บๆ @ ร้านเหล้า
+https://youtu.be/BOnC8RB5UbA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงฮิตร้านเหล้า สบายๆ ชิวๆ
+https://youtu.be/Dxn8dWcyx2s
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงร็อคไทยเก่าๆ
+https://youtu.be/InX04pUeAEI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",Best Rock Bands [ สุดยอดวงร็อคไทย ]
+https://youtu.be/GOKe3Q77TN0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงใต้ เพื่อชีวิต หรอยแรง เปิดบ่อย
+https://youtu.be/7rcbGdlLZ54
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",พักผ่อนกับน้ำสีเหลืองทอง
+https://youtu.be/cE8t9bgsSAA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",100 ล้านวิว-เพลงลูกทุ่งใหม่ล่าสุด รวมเพลงเพราะ ฟังต่อเนื่อง
+https://youtu.be/CIH3x74-ed4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",100 ล้านวิว-เพลงสากล,ไม่รู้จะเพราะไปไหนแล้ว เอามามัดรวมกันทีเดียว ร้านกาแฟ เวลาทำงาน
+https://youtu.be/B7KHIgCMCVw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงอินดี้อีสาน 100 ล้านวิว ใหม่ล่าสุด 2020
+https://youtu.be/NSHayBoFTzk
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆฟังต่อเนื่อง By ส้มโอ stage fighter
+https://youtu.be/bknBMOoRtCU
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ ฟังต่อเนื่อง By ส้มโอ Stage Fighter🥰🥰
+https://youtu.be/GrfAKg_1Kbk
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงเพราะๆ By ไอซ์ x โอ๊ต
+https://youtu.be/ZqpgnDLHLeE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",Cover Acoustic - 20 อันดับเพลงฮิต
+https://youtu.be/2Ok2GECcTL4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงเศร้า ผู้หญิงเจ้าน้ำตา l นิว จิ๋ว,นิโคล,ปนัดดา l【LONGPLAY】
+https://youtu.be/zzO-PJjI-PA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงสตริงฮิต ดา เอ็นโดรฟิน l เธอมีฉัน ฉันมีใคร,เพื่อนสนิท,ได้ยินไหม
+https://youtu.be/oCbwBLVBW60
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลง เขียนไขและวานิช เพลงช้าๆเพราะๆฟังกันยาวๆ
+https://youtu.be/VxEikyATspQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",【รวมเพลง】ฮิต X ฮิต Da Endorphine - KLEAR
+https://youtu.be/GgtBFkjrXrc
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงสากล ฮิตติดชาร์ต
+https://youtu.be/e6Ye5haFC-E
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวงมเพลงสากล เพราะที่สุด เพลงใหม่
+https://youtu.be/liXUjNw1MSQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงสากล เพราะที่สุดในตอนนี้
+https://youtu.be/Binbd1gCq80
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงสากล สุดฮิต 2017-2018
+https://youtu.be/2RGU00dZ6dI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงสากลใหม่ 2020 ฮิต 100 อันดับ
+https://youtu.be/6j5NPYLfSbA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",Love Song 2019_ALL TIME GREAT LOVE
+https://youtu.be/v5aoioCswc4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงสากล ร้านกาแฟ
+https://youtu.be/l_oRckJ0klc
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงสากล [ช้าๆ ซึ้งๆ หนักแน่น แต่นุ่มนวล]
+https://youtu.be/SbByh7zBZD4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",Acoustic 2019-The Best Acoustic Covers
+https://youtu.be/CYFKL_ta7rA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เพลงตื้ดๆ!!! เปิดในผับ!! แดนซ์ สายย่อ เบสแน่นๆ!! EDM 2020
+https://youtu.be/WQ2PlrimH9c
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",เปิดในผับ!! แดนซ์ สายย่อ เบสแน่นๆ!! EDM 2020 !!! #1
+https://youtu.be/eJ1uDkEoJBA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",รวมเพลงรถแห่มันๆ สนุกๆ 2020
+https://youtu.be/EI7o-le11Y0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",แสดงสด รถแห่มันๆ เปิดตัวรถแห่ ไม่มีโฆษณา
+https://youtu.be/zw_zwcqYMug
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://miro.medium.com/max/640/1*WNdC-X1v0VhozKPWcezBDw.jpeg",แดนซ์ลูกทุ่ง2019มันทุกเพลง
+https://youtu.be/Wj0wT9GNgjw
+
+
+
+
+
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.1(100 Hits)
+https://youtu.be/-2OHhqGSQuE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.2(100 Hits)
+https://youtu.be/CEYRzXixQJ4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.3(100 Hits)
+https://youtu.be/MphmUwC4Gxo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.4(100 Hits)
+https://youtu.be/qfUaFqSIVTY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.5(100 Hits)
+https://youtu.be/Sm-1QpISous
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.6(100 Hits)
+https://youtu.be/hu7xNi_xrmE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.7(100 Hits)
+https://youtu.be/ulOQPi9WIJA
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.8(100 Hits)
+https://youtu.be/A4iDvQ0hkJU
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.9(100 Hits)
+https://youtu.be/Ta1yPcO_bZw
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.10(100 Hits)
+https://youtu.be/gnhoTpVXDpg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 1
+https://youtu.be/O7u4dd0W0PY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 2
+https://youtu.be/Xa3kdiH0EeU
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 3
+https://youtu.be/dMMBrrUV32o
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 4
+https://youtu.be/hzivWWafBec
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 5
+https://youtu.be/KXGPragaCQY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 6
+https://youtu.be/LaJbrArs3hM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 7
+https://youtu.be/UJD149wTujM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 8
+https://youtu.be/Xg1Hqk39EO4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 9
+https://youtu.be/FhA03kjwzZM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะฮิต 20 ปี แกรมมี่โกลด์ ชุดที่ 10
+https://youtu.be/-0sqy7TTzes
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.1(White Haus)
+https://youtu.be/Et9zdiEXEhQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.2(White Haus)
+https://youtu.be/NIST_bXZ8Ko
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.3(White Haus)
+https://youtu.be/yuGztOCMTH4
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.4(White Haus)
+https://youtu.be/V2M0SDPjOBM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",คาราโอเกะเพลงฮิต Vol.5(White Haus)
+https://youtu.be/5Ijuu_Q4t5E
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://img.crx4chrome.com/45/54/08/ghnaglacgepiijbbkpfdoncgfadgkdck-featured.jpg",KARAOKE BIG HITs : ลูกทุ่งเพลงประกวด
+https://youtu.be/vU_kB6niIcQ
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",อย่าปล่อยมือ - ไม้เมือง【Cover By ส้มโอ Stage Fighter 】
+https://youtu.be/YVa8QJ5ZjXM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",Habits (Stay High) | Cover
+https://youtu.be/0h3NeVv8AGg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",WIP WUP วิบวับ (Explicit)
+https://youtu.be/8fWHnLYh8Lg
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",WIP WUP (วิบวับ) - Acoustic Cover By ไอซ์ x โอ๊ต
+https://youtu.be/eZBqB-XpHjo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",บ่ต้องการเศษใจ ( เหลือแต่หอยกับรอยยิ้ม) : แบม ไพลิน
+https://youtu.be/kMlMmuS6CYI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ปี้(จน)ป่น - [ เอ มหาหิงค์ ] MAHAHING feat.บัว กมลทิพย์「Official MV」
+https://youtu.be/ly_wjN27KJE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",เมาทุกขวดเจ็บปวดทุกเพลง 「 ดูโอเมย์ 」【MUSIC VDO OFFICIAL】
+https://youtu.be/DyihTyLPURU
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ออเจ้าเอย Ost.บุพเพสันนิวาส | พีท พล | Official MV
+https://youtu.be/oAwGBYdvwW0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",สัญญากาสะลอง Ost.กลิ่นกาสะลอง | ไอซ์ ศรัณยู | Official MV
+https://youtu.be/_SFcKA9u0kI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ซ่อนกลิ่น - PALMY「Official MV
+https://youtu.be/wqJsZYibWcI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",เพลงลาวดวงเดือน (ชั่วฟ้าดินสลาย)
+https://youtu.be/NZUPkcVGjs8
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",สิ่งของ - KLEAR「Official MV
+https://youtu.be/Z-qjxO_ZJKM
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",เรื่องที่ขอ - LULA [Official MV]
+https://youtu.be/h2nIHSgQ2Bs
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ILLSLICK - ถ้าเธอต้องเลือก [Official Lyrics Video]
+https://youtu.be/ePdyoX_B-nE
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",[Official MV] มือลั่น - แจ๊ส สปุ๊กนิค ปาปิยอง กุ๊กกุ๊ก [ JSPKK ]
+https://youtu.be/iQpIvDDkVV8
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",Max Jenmana – วันหนึ่งฉันเดินเข้าป่า (Into the Woods)
+https://youtu.be/HdwiFnUtalI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ActArt - นอกจากชื่อฉัน [Official MV]
+https://youtu.be/A4HVJfxxaUY
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ซ่อนกลิ่น - PALMY「Official Audio」
+https://youtu.be/M7ovvi6UdcI
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",ช้ำคือเรา - [Cover By สมอารมณ์ x Pimthitiii]
+https://youtu.be/yqpmX4eOCHo
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",The TOYS - ลาลาลอย (100%) [Official Music Video]
+https://youtu.be/jdiRSOkzQns
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",Bedroom Audio - รักมือสอง [Official Music Video]
+https://youtu.be/squnzmd-QX0
+
+#EXTINF:-1 group-title="YouTube" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-07-19-104536.jpg",คำยินดี (Kum Yin Dee) - Klear [Official MV]
+https://youtu.be/cEeUFE6tRmQ
+
+
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
 
 #EXTINF:-1 group-title="World Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKdg0GoHpIApKs0yVp8zzUAOT9B5esLAgn-w&usqp=CAU",SKY​ SPORT​S PREMIER
 http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
@@ -2130,7 +2367,15 @@ http://160.119.77.116:8081/iptv/epl-bein1.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/epl-bein2.stream/playlist.m3u8
 
 
-#==========================================================================================================
+
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
 
 #EXTINF:-1 group-title="World Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
@@ -2336,7 +2581,14 @@ https://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
 *********
 
 
-#================================= Series Sweet Home ========================================
+
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
 
 
 #EXTINF:-1 group-title="SWEET HOME" tvg-logo="https://i.ytimg.com/vi/4bBgUjtl6Lw/maxresdefault.jpg",EP1
@@ -2372,7 +2624,10 @@ https://cache-movie.dooseries.tv/hls/content/nas06/mvc/S/KR/Sweet_Home_S1/ST/EP1
 
 
 
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://www.img.in.th/images/2eff4f4ffd7c1b152db15a877776ee36.jpg",2021.01.18-G1 Android-แบ่งปัน
-https://youtu.be/YRwyE1GQ_jI
 
-###[2021.01.18-IPTV.G1.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
+
+
+
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+###[2021.02.09-IPTV.G2.m3u] Link ทั้งหมดมาจากแบ่งปันผ่าน Website/Facebook,และการแนะนำจากสมาชิกในกลุ่ม เพื่อใช้กันในกลุ่มเท่านั้นไม่มีเรื่องธุระกิจใดๆ เข้ามาเกี่ยวข้อง, รวบรวมโดย Open Chat: Android-แบ่งปัน  ::::###
